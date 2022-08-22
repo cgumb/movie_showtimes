@@ -24,7 +24,7 @@ jobs:
 
     - id: jupyter
       name: notebook-exec
-      run: jupyter execute scraping.ipynb & jupyter execute showtimes.ipynb
+      run: jupyter execute scraping.ipynb
       shell: bash
 
  # Add new files in folder, commit along with other modified files, push
