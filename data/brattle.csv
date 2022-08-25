@@ -1,6 +1,4 @@
 theater,title,date,time,link,poster
-Brattle,Harvard Book Store presents R.F. Kuang,08-24,6:00 PM,https://brattlefilm.org/special_events/harvard-book-store-presents-r-f-kuang/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2022/06/28143023/hbs-kuang-book.jpg
-Brattle,Grease,08-24,7:45 PM,https://brattlefilm.org/movies/grease/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2022/08/16110443/czVhhAaSBFpakur7U8pOIDV9NUG.jpg
 Brattle,Freaks,08-25,3:30 PM,https://brattlefilm.org/movies/freaks/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2022/06/27175343/j2dwljljOrLTcnwfKeUBBeNB8t7-scaled.jpg
 Brattle,Freaks,08-25,7:30 PM,https://brattlefilm.org/movies/freaks/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2022/06/27175343/j2dwljljOrLTcnwfKeUBBeNB8t7-scaled.jpg
 Brattle,Rock ‘n’ Roll High School,08-25,5:30 PM,https://brattlefilm.org/movies/rock-n-roll-high-school/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2022/06/27175516/50G3vyNThNapoU5jq4UYSxj44JE-scaled.jpg
@@ -25,3 +23,13 @@ Brattle,Girl Picture,09-02,4:45 PM,https://brattlefilm.org/movies/girl-picture/,
 Brattle,Girl Picture,09-03,7:00 PM,https://brattlefilm.org/movies/girl-picture/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2022/08/24124156/kNRhvWoVDWP9kr2E7GBB3G0ZQVI.jpg
 Brattle,Daisies,09-02,9:15 PM,https://brattlefilm.org/movies/daisies/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2022/08/24124737/daisies_27x40in_poster_r2_original-scaled.jpg
 Brattle,Modern Times,09-03,12:30 PM,https://brattlefilm.org/movies/modern-times/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2022/08/24125217/9xeglIbChLIe0P4fTQNAdlG2v0C.jpg
+Brattle,The Story of Film: A New Generation,09-09,6:00 PM,https://brattlefilm.org/movies/the-story-of-film-a-new-generation/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2022/08/24132419/riTjWr3MuQlblnwsqlHW8q9BLJg-scaled.jpg
+Brattle,Holy Motors,09-09,9:15 PM,https://brattlefilm.org/movies/holy-motors/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2022/08/24133353/vr5ln88VCliaEiMufIqsXIVyBIB.jpg
+Brattle,Zama,09-10,3:30 PM,https://brattlefilm.org/movies/zama/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2022/08/24133618/kpp9R6iYKSIXxfyW0feVYrk0jsg.jpg
+Brattle,The Babadook,09-10,9:15 PM,https://brattlefilm.org/movies/the-babadook/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2022/08/24133525/lszpCmmPCKHvzn2OBx7bAgXlfhC.jpg
+Brattle,Good Time,09-11,12:00 PM,https://brattlefilm.org/movies/good-time/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2022/08/24133652/s6DJXJU3HzX24Ij3VWg5MfVGHrI-scaled.jpg
+Brattle,Good Time,09-11,9:15 PM,https://brattlefilm.org/movies/good-time/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2022/08/24133652/s6DJXJU3HzX24Ij3VWg5MfVGHrI-scaled.jpg
+Brattle,Cemetery of Splendor,09-12,8:00 PM,https://brattlefilm.org/movies/cemetery-of-splendor/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2022/08/24133757/pK5y82ISbaBWa87R5neub8qojDk.jpg
+Brattle,Leviathan,09-13,8:00 PM,https://brattlefilm.org/movies/leviathan/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2022/08/24133845/yU626BbyIZ4VraJJuFwXHEhcEK3.jpg
+Brattle,Moonlight,09-14,8:00 PM,https://brattlefilm.org/movies/moonlight/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2022/08/24133931/rcICfiL9fvwRjoWHxW8QeroLYrJ.jpg
+Brattle,It Follows,09-15,9:15 PM,https://brattlefilm.org/movies/it-follows/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2022/08/24134127/iwnQ1JH1wdWrGYkgWySptJ5284A.jpg
