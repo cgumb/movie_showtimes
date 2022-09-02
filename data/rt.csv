@@ -1,7 +1,7 @@
 title,poster,year,cast,score,cert,rt_link,exact_match,query_str,listing_title
 Pink Flamingos,/assets/pizza-pie/images/poster_default.c8c896e70c3.gif,1972,"Divine,David Lochary,Mink Stole",83,certified-fresh,https://www.rottentomatoes.com/m/pink_flamingos,True,Pink Flamingos | John Waters,Pink Flamingos
 Mrs. Harris Goes to Paris,/assets/pizza-pie/images/poster_default.c8c896e70c3.gif,2022,"Lesley Manville,Isabelle Huppert,Jason Isaacs",95,certified-fresh,https://www.rottentomatoes.com/m/mrs_harris_goes_to_paris,True,Mrs. Harris Goes to Paris | Anthony Fabian,Mrs. Harris Goes to Paris
-Three Thousand Years of Longing,/assets/pizza-pie/images/poster_default.c8c896e70c3.gif,2022,"Idris Elba,Tilda Swinton,Aamito Lagum",73,fresh,https://www.rottentomatoes.com/m/three_thousand_years_of_longing,True,Three Thousand Years of Longing | George Miller,Three Thousand Years of Longing
+Three Thousand Years of Longing,/assets/pizza-pie/images/poster_default.c8c896e70c3.gif,2022,"Idris Elba,Tilda Swinton,Aamito Lagum",72,fresh,https://www.rottentomatoes.com/m/three_thousand_years_of_longing,True,Three Thousand Years of Longing | George Miller,Three Thousand Years of Longing
 Girl Picture,/assets/pizza-pie/images/poster_default.c8c896e70c3.gif,2022,"Aamu Milonoff,Linnea Leino,Sonya Lindfors",98,certified-fresh,https://www.rottentomatoes.com/m/girl_picture,True,Girl Picture |,Girl Picture
 Bodies Bodies Bodies,/assets/pizza-pie/images/poster_default.c8c896e70c3.gif,2022,"Amandla Stenberg,Maria Bakalova,Myha'la Herrold",85,certified-fresh,https://www.rottentomatoes.com/m/bodies_bodies_bodies,True,Bodies Bodies Bodies | Halina Reijn,Bodies Bodies Bodies
 Nope,/assets/pizza-pie/images/poster_default.c8c896e70c3.gif,2022,"Daniel Kaluuya,Keke Palmer,Steven Yeun",83,certified-fresh,https://www.rottentomatoes.com/m/nope,True,Nope | Jordan Peele,Nope
@@ -67,20 +67,30 @@ Zodiac,/assets/pizza-pie/images/poster_default.c8c896e70c3.gif,2007,"Jake Gyllen
 Bleak Moments,/assets/pizza-pie/images/poster_default.c8c896e70c3.gif,1971,"Anne Raitt,Sarah Stephenson,Eric Allan",,,https://www.rottentomatoes.com/m/bleak_moments,False,Bleak Moments |,Bleak Moments
 Little Women,/assets/pizza-pie/images/poster_default.c8c896e70c3.gif,2019,"Saoirse Ronan,Emma Watson,Florence Pugh",95,certified-fresh,https://www.rottentomatoes.com/m/little_women_2019,True,Little Women |,Little Women
 Secrets & Lies,/assets/pizza-pie/images/poster_default.c8c896e70c3.gif,1996,"Timothy Spall,Brenda Blethyn,Phyllis Logan",95,certified-fresh,https://www.rottentomatoes.com/m/secrets_and_lies,True,Secrets & Lies |,Secrets & Lies
+Real Women Have Curves,/assets/pizza-pie/images/poster_default.c8c896e70c3.gif,2002,"America Ferrera,Lupe Ontiveros,Ingrid Oliu",85,certified-fresh,https://www.rottentomatoes.com/m/real_women_have_curves,True,Real Women Have Curves | Patricia Cardoso,Real Women Have Curves
 Good Burger,/assets/pizza-pie/images/poster_default.c8c896e70c3.gif,1997,"Kel Mitchell,Kenan Thompson,Sinbad",33,rotten,https://www.rottentomatoes.com/m/good_burger,True,Good Burger | Brian Robbins,Good Burger
 Drunken Master II,/assets/pizza-pie/images/poster_default.c8c896e70c3.gif,1994,"Jackie Chan,Ti Lung,Anita Mui",84,certified-fresh,https://www.rottentomatoes.com/m/legend_of_drunken_master,False,The Legend of Drunken Master |,The Legend of Drunken Master
 The Rocky Horror Picture Show,/assets/pizza-pie/images/poster_default.c8c896e70c3.gif,1975,"Tim Curry,Susan Sarandon,Barry Bostwick",78,certified-fresh,https://www.rottentomatoes.com/m/rocky_horror_picture_show,True,The Rocky Horror Picture Show | Jim Sharman,The Rocky Horror Picture Show
 Keane,/assets/pizza-pie/images/poster_default.c8c896e70c3.gif,2004,"Damian Lewis,Abigail Breslin,Amy Ryan",82,certified-fresh,https://www.rottentomatoes.com/m/keane,True,Keane |,Keane
-2 Days in the Valley,/assets/pizza-pie/images/poster_default.c8c896e70c3.gif,1996,"Danny Aiello,Glenne Headly,Jeff Daniels",62,fresh,https://www.rottentomatoes.com/m/2_days_in_the_valley,False,Greg Sestero Presents Miracle Valley and The Room | Greg Sestero,Greg Sestero Presents Miracle Valley and The Room
+Infrared,/assets/pizza-pie/images/poster_default.c8c896e70c3.gif,2022,"Greg Sestero,Leah Finity,Jesse Janzen",50,rotten,https://www.rottentomatoes.com/m/infrared,False,Greg Sestero Presents Miracle Valley and The Room | Greg Sestero,Greg Sestero Presents Miracle Valley and The Room
 Wait Until Dark,/assets/pizza-pie/images/poster_default.c8c896e70c3.gif,1967,"Audrey Hepburn,Alan Arkin,Richard Crenna",96,fresh,https://www.rottentomatoes.com/m/wait_until_dark,True,Wait Until Dark |,Wait Until Dark
 Alma's Rainbow,/assets/pizza-pie/images/poster_default.c8c896e70c3.gif,1994,"Kim Weston-Moran,Victoria Gabriella Platt,Mizan Nunes",83,fresh,https://www.rottentomatoes.com/m/almas_rainbow,False,Alma’s Rainbow |,Alma’s Rainbow
 My Son,/assets/pizza-pie/images/poster_default.c8c896e70c3.gif,2017,"Guillaume Canet,Mélanie Laurent,Olivier de Benoist",63,fresh,https://www.rottentomatoes.com/m/my_son_2019,True,My Son | Lena Stahl,My Son
+Still Working 9 to 5,/assets/pizza-pie/images/poster_default.c8c896e70c3.gif,2022,"Dolly Parton,Jane Fonda,Lily Tomlin",92,fresh,https://www.rottentomatoes.com/m/still_working_9_to_5,False,RPM Fest presents Ariana Gerstein – Still/Distill |,RPM Fest presents Ariana Gerstein – Still/Distill
 Mississippi Masala,/assets/pizza-pie/images/poster_default.c8c896e70c3.gif,1991,"Denzel Washington,Sarita Choudhury,Roshan Seth",92,certified-fresh,https://www.rottentomatoes.com/m/mississippi_masala,True,Mississippi Masala |,Mississippi Masala
 Dinner in America,/assets/pizza-pie/images/poster_default.c8c896e70c3.gif,2020,"Kyle Gallner,Emily Skeggs,Griffin Gluck",91,certified-fresh,https://www.rottentomatoes.com/m/dinner_in_america,True,Dinner in America |,Dinner in America
 Cruising,/assets/pizza-pie/images/poster_default.c8c896e70c3.gif,1980,"Al Pacino,Paul Sorvino,Karen Allen",50,rotten,https://www.rottentomatoes.com/m/cruising,True,Cruising |,Cruising
 Three Windows and a Hanging,/assets/pizza-pie/images/poster_default.c8c896e70c3.gif,2014,"Irena Cahani,Luan Jaha,Donat Qosja",100,fresh,https://www.rottentomatoes.com/m/three_windows_and_a_hanging,False,Windows |,Windows
 "Dr. Mabuse, the Gambler",/assets/pizza-pie/images/poster_default.c8c896e70c3.gif,1922,"Rudolf Klein-Rogge,Alfred Abel,Aud Egede Nissen",94,fresh,https://www.rottentomatoes.com/m/dr_mabuse_the_gambler,True,"Dr. Mabuse, the Gambler |","Dr. Mabuse, the Gambler"
-Blue,/assets/pizza-pie/images/poster_default.c8c896e70c3.gif,1993,"Juliette Binoche,Benoît Régent,Florence Pernel",98,certified-fresh,https://www.rottentomatoes.com/m/three_colors_blue,False,Three Colors: Blue | Krzysztof Kieslowski,Three Colors: Blue
+Three Colors: Red,/assets/pizza-pie/images/poster_default.c8c896e70c3.gif,1994,"Irène Jacob,Jean-Louis Trintignant,Frédérique Feder",100,certified-fresh,https://www.rottentomatoes.com/m/1058966-red,False,"Three Colors: Blue
+
+
+
+Part of Seminar: Three Color: Blue | Krzysztof Kieslowski","Three Colors: Blue
+
+
+
+Part of Seminar: Three Color: Blue"
 Minority Report,/assets/pizza-pie/images/poster_default.c8c896e70c3.gif,2002,"Tom Cruise,Colin Farrell,Samantha Morton",90,certified-fresh,https://www.rottentomatoes.com/m/minority_report,True,Minority Report | Steven Spielberg,Minority Report
 Cops and Robbersons,/assets/pizza-pie/images/poster_default.c8c896e70c3.gif,1994,"Chevy Chase,Jack Palance,Dianne Wiest",14,rotten,https://www.rottentomatoes.com/m/cops_and_robbersons,False,Buster Keaton’s Cops (and More) |,Buster Keaton’s Cops (and More)
 Night of the Demons,/assets/pizza-pie/images/poster_default.c8c896e70c3.gif,1988,"Lance Fenton,Mimi Kinkade,Linnea Quigley",36,rotten,https://www.rottentomatoes.com/m/night_of_the_demons,True,Night of the Demons | Kevin Tenney,Night of the Demons
@@ -91,7 +101,15 @@ Trois Couleurs: Blanc,/assets/pizza-pie/images/poster_default.c8c896e70c3.gif,19
 Daphne,/assets/pizza-pie/images/poster_default.c8c896e70c3.gif,2017,"Emily Beecham,Tom Vaughan-Lawlor,Geraldine James",100,fresh,https://www.rottentomatoes.com/m/daphne,False,Jack Absolute Flies Again | Emily Burns,Jack Absolute Flies Again
 The Fog,/assets/pizza-pie/images/poster_default.c8c896e70c3.gif,1980,"Adrienne Barbeau,Hal Holbrook,Janet Leigh",75,certified-fresh,https://www.rottentomatoes.com/m/the_fog_1980,True,The Fog | John Carpenter,The Fog
 Escape From New York,/assets/pizza-pie/images/poster_default.c8c896e70c3.gif,1981,"Kurt Russell,Ernest Borgnine,Adrienne Barbeau",86,certified-fresh,https://www.rottentomatoes.com/m/1006717-escape_from_new_york,True,Escape from New York | John Carpenter,Escape from New York
-They Live,/assets/pizza-pie/images/poster_default.c8c896e70c3.gif,1988,"Roddy Piper,Keith David,Meg Foster",85,certified-fresh,https://www.rottentomatoes.com/m/they_live,True,They Live | John Carpenter,They Live
+They Live,/assets/pizza-pie/images/poster_default.c8c896e70c3.gif,1988,"Roddy Piper,Keith David,Meg Foster",85,certified-fresh,https://www.rottentomatoes.com/m/they_live,False,"They Live
+
+
+
+Part of Seminar: They Live | John Carpenter","They Live
+
+
+
+Part of Seminar: They Live"
 The Thing,/assets/pizza-pie/images/poster_default.c8c896e70c3.gif,1982,"Kurt Russell,A. Wilford Brimley,T.K. Carter",83,certified-fresh,https://www.rottentomatoes.com/m/1021244-thing,False,The Thing (1982) | John Carpenter,The Thing (1982)
 Christine,/assets/pizza-pie/images/poster_default.c8c896e70c3.gif,1983,"Keith Gordon,John Stockwell,Alexandra Paul",69,fresh,https://www.rottentomatoes.com/m/christine,True,Christine | John Carpenter,Christine
 Three Colors: Red,/assets/pizza-pie/images/poster_default.c8c896e70c3.gif,1994,"Irène Jacob,Jean-Louis Trintignant,Frédérique Feder",100,certified-fresh,https://www.rottentomatoes.com/m/1058966-red,True,Three Colors: Red | Krzysztof Kieslowski,Three Colors: Red
@@ -101,5 +119,5 @@ In the Mouth of Madness,/assets/pizza-pie/images/poster_default.c8c896e70c3.gif,
 Night of the Living Dead,/assets/pizza-pie/images/poster_default.c8c896e70c3.gif,1968,"Duane Jones,Judith O'Dea,Karl Hardman",96,certified-fresh,https://www.rottentomatoes.com/m/night_of_the_living_dead,True,Night of the Living Dead | George A. Romero,Night of the Living Dead
 Jennifer's Body,/assets/pizza-pie/images/poster_default.c8c896e70c3.gif,2009,"Megan Fox,Amanda Seyfried,Johnny Simmons",45,rotten,https://www.rottentomatoes.com/m/jennifers_body,False,Jennifer’s Body | Karyn Kusama,Jennifer’s Body
 John Carpenter's Vampires,/assets/pizza-pie/images/poster_default.c8c896e70c3.gif,1998,"James Woods,Daniel Baldwin,Sheryl Lee",42,rotten,https://www.rottentomatoes.com/m/john_carpenters_vampires,False,John Carpenter’s Vampires | John Carpenter,John Carpenter’s Vampires
-The Unknown,/assets/pizza-pie/images/poster_default.c8c896e70c3.gif,1927,"Lon Chaney,Norman Kerry,Joan Crawford",100,fresh,https://www.rottentomatoes.com/m/10002869-unknown,False,21st Halloween Horror Marathon | Tod Browning,21st Halloween Horror Marathon
+Freaks,/assets/pizza-pie/images/poster_default.c8c896e70c3.gif,1932,"Wallace Ford,Olga Baclanova,Leila Hyams",95,certified-fresh,https://www.rottentomatoes.com/m/freaks,False,21st Halloween Horror Marathon | Tod Browning,21st Halloween Horror Marathon
 Halloween,/assets/pizza-pie/images/poster_default.c8c896e70c3.gif,1978,"Donald Pleasence,Jamie Lee Curtis,Nancy Loomis",96,certified-fresh,https://www.rottentomatoes.com/m/1009113-halloween,True,Halloween | John Carpenter,Halloween
