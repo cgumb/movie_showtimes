@@ -1,8 +1,4 @@
 title,poster,year,cast,score,cert,rt_link,exact_match,query_str,listing_title
-Apocalypse Now Redux,/assets/pizza-pie/images/poster_default.c8c896e70c3.gif,1979,"Marlon Brando,Robert Duvall,Martin Sheen",93,certified-fresh,https://www.rottentomatoes.com/m/apocalypse_now_redux_2001,False,Apocalypse Now: Final Cut |,Apocalypse Now: Final Cut
-Nope,/assets/pizza-pie/images/poster_default.c8c896e70c3.gif,2022,"Daniel Kaluuya,Keke Palmer,Steven Yeun",83,certified-fresh,https://www.rottentomatoes.com/m/nope,True,Nope |,Nope
-The Good Boss,/assets/pizza-pie/images/poster_default.c8c896e70c3.gif,2021,"Javier Bardem,Almudena Amor,Manolo Solo",92,certified-fresh,https://www.rottentomatoes.com/m/the_good_boss,True,The Good Boss |,The Good Boss
-Daisies,/assets/pizza-pie/images/poster_default.c8c896e70c3.gif,1966,"Jitka Cerhová,Ivana Karbandova,Julius Albert",85,fresh,https://www.rottentomatoes.com/m/daisies,True,Daisies |,Daisies
 Mrs. Harris Goes to Paris,/assets/pizza-pie/images/poster_default.c8c896e70c3.gif,2022,"Lesley Manville,Isabelle Huppert,Jason Isaacs",95,certified-fresh,https://www.rottentomatoes.com/m/mrs_harris_goes_to_paris,True,Mrs. Harris Goes to Paris | Anthony Fabian,Mrs. Harris Goes to Paris
 The Good Boss,/assets/pizza-pie/images/poster_default.c8c896e70c3.gif,2021,"Javier Bardem,Almudena Amor,Manolo Solo",92,certified-fresh,https://www.rottentomatoes.com/m/the_good_boss,True,The Good Boss | Fernando León de Aranoa,The Good Boss
 Bodies Bodies Bodies,/assets/pizza-pie/images/poster_default.c8c896e70c3.gif,2022,"Amandla Stenberg,Maria Bakalova,Myha'la Herrold",85,certified-fresh,https://www.rottentomatoes.com/m/bodies_bodies_bodies,True,Bodies Bodies Bodies | Halina Reijn,Bodies Bodies Bodies
@@ -10,6 +6,10 @@ Three Thousand Years of Longing,/assets/pizza-pie/images/poster_default.c8c896e7
 Repo Man,/assets/pizza-pie/images/poster_default.c8c896e70c3.gif,1984,"Emilio Estevez,Harry Dean Stanton,Tracey Walter",98,certified-fresh,https://www.rottentomatoes.com/m/repo_man,True,Repo Man | Alex Cox,Repo Man
 Modern Times,/assets/pizza-pie/images/poster_default.c8c896e70c3.gif,1936,"Charlie Chaplin,Paulette Goddard,Henry Bergman",98,certified-fresh,https://www.rottentomatoes.com/m/modern_times,True,Modern Times |,Modern Times
 Nope,/assets/pizza-pie/images/poster_default.c8c896e70c3.gif,2022,"Daniel Kaluuya,Keke Palmer,Steven Yeun",83,certified-fresh,https://www.rottentomatoes.com/m/nope,True,Nope | Jordan Peele,Nope
+Nope,/assets/pizza-pie/images/poster_default.c8c896e70c3.gif,2022,"Daniel Kaluuya,Keke Palmer,Steven Yeun",83,certified-fresh,https://www.rottentomatoes.com/m/nope,True,Nope |,Nope
+The Good Boss,/assets/pizza-pie/images/poster_default.c8c896e70c3.gif,2021,"Javier Bardem,Almudena Amor,Manolo Solo",92,certified-fresh,https://www.rottentomatoes.com/m/the_good_boss,True,The Good Boss |,The Good Boss
+Daisies,/assets/pizza-pie/images/poster_default.c8c896e70c3.gif,1966,"Jitka Cerhová,Ivana Karbandova,Julius Albert",85,fresh,https://www.rottentomatoes.com/m/daisies,True,Daisies |,Daisies
+Apocalypse Now Redux,/assets/pizza-pie/images/poster_default.c8c896e70c3.gif,1979,"Marlon Brando,Robert Duvall,Martin Sheen",93,certified-fresh,https://www.rottentomatoes.com/m/apocalypse_now_redux_2001,False,Apocalypse Now: Final Cut |,Apocalypse Now: Final Cut
 Girl Picture,/assets/pizza-pie/images/poster_default.c8c896e70c3.gif,2022,"Aamu Milonoff,Linnea Leino,Sonya Lindfors",98,certified-fresh,https://www.rottentomatoes.com/m/girl_picture,True,Girl Picture |,Girl Picture
 Office Space,/assets/pizza-pie/images/poster_default.c8c896e70c3.gif,1999,"Ron Livingston,Jennifer Aniston,David Herman",80,certified-fresh,https://www.rottentomatoes.com/m/office_space,True,Office Space | Mike Judge,Office Space
 Ran,/assets/pizza-pie/images/poster_default.c8c896e70c3.gif,1985,"Tatsuya Nakadai,Mieko Harada,Akira Terao",96,certified-fresh,https://www.rottentomatoes.com/m/ran,True,Ran | Akira Kurosawa,Ran
@@ -100,7 +100,6 @@ Part of Seminar: Three Color: Blue | Krzysztof Kieslowski","Three Colors: Blue
 
 Part of Seminar: Three Color: Blue"
 Minority Report,/assets/pizza-pie/images/poster_default.c8c896e70c3.gif,2002,"Tom Cruise,Colin Farrell,Samantha Morton",90,certified-fresh,https://www.rottentomatoes.com/m/minority_report,True,Minority Report | Steven Spielberg,Minority Report
-Cops and Robbersons,/assets/pizza-pie/images/poster_default.c8c896e70c3.gif,1994,"Chevy Chase,Jack Palance,Dianne Wiest",14,rotten,https://www.rottentomatoes.com/m/cops_and_robbersons,False,Buster Keaton’s Cops (and More) |,Buster Keaton’s Cops (and More)
 Night of the Demons,/assets/pizza-pie/images/poster_default.c8c896e70c3.gif,1988,"Lance Fenton,Mimi Kinkade,Linnea Quigley",36,rotten,https://www.rottentomatoes.com/m/night_of_the_demons,True,Night of the Demons | Kevin Tenney,Night of the Demons
 Nosferatu,/assets/pizza-pie/images/poster_default.c8c896e70c3.gif,1922,"Max Schreck,Alexander Granach,Gustav von Wangenheim",97,certified-fresh,https://www.rottentomatoes.com/m/nosferatu,True,Nosferatu |,Nosferatu
 Dark Star,/assets/pizza-pie/images/poster_default.c8c896e70c3.gif,1974,"Brian Narelle,Dan O'Bannon,Cal Kuniholm",79,fresh,https://www.rottentomatoes.com/m/dark_star,True,Dark Star | John Carpenter,Dark Star
