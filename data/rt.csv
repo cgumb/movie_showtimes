@@ -1,17 +1,16 @@
 title,poster,year,cast,score,cert,rt_link,exact_match,query_str,listing_title
-Pink Flamingos,/assets/pizza-pie/images/poster_default.c8c896e70c3.gif,1972,"Divine,David Lochary,Mink Stole",83,certified-fresh,https://www.rottentomatoes.com/m/pink_flamingos,True,Pink Flamingos | John Waters,Pink Flamingos
-Mrs. Harris Goes to Paris,/assets/pizza-pie/images/poster_default.c8c896e70c3.gif,2022,"Lesley Manville,Isabelle Huppert,Jason Isaacs",95,certified-fresh,https://www.rottentomatoes.com/m/mrs_harris_goes_to_paris,True,Mrs. Harris Goes to Paris | Anthony Fabian,Mrs. Harris Goes to Paris
-Three Thousand Years of Longing,/assets/pizza-pie/images/poster_default.c8c896e70c3.gif,2022,"Idris Elba,Tilda Swinton,Aamito Lagum",72,fresh,https://www.rottentomatoes.com/m/three_thousand_years_of_longing,True,Three Thousand Years of Longing | George Miller,Three Thousand Years of Longing
-Girl Picture,/assets/pizza-pie/images/poster_default.c8c896e70c3.gif,2022,"Aamu Milonoff,Linnea Leino,Sonya Lindfors",98,certified-fresh,https://www.rottentomatoes.com/m/girl_picture,True,Girl Picture |,Girl Picture
-Bodies Bodies Bodies,/assets/pizza-pie/images/poster_default.c8c896e70c3.gif,2022,"Amandla Stenberg,Maria Bakalova,Myha'la Herrold",85,certified-fresh,https://www.rottentomatoes.com/m/bodies_bodies_bodies,True,Bodies Bodies Bodies | Halina Reijn,Bodies Bodies Bodies
-Nope,/assets/pizza-pie/images/poster_default.c8c896e70c3.gif,2022,"Daniel Kaluuya,Keke Palmer,Steven Yeun",83,certified-fresh,https://www.rottentomatoes.com/m/nope,True,Nope | Jordan Peele,Nope
 Apocalypse Now Redux,/assets/pizza-pie/images/poster_default.c8c896e70c3.gif,1979,"Marlon Brando,Robert Duvall,Martin Sheen",93,certified-fresh,https://www.rottentomatoes.com/m/apocalypse_now_redux_2001,False,Apocalypse Now: Final Cut |,Apocalypse Now: Final Cut
 Nope,/assets/pizza-pie/images/poster_default.c8c896e70c3.gif,2022,"Daniel Kaluuya,Keke Palmer,Steven Yeun",83,certified-fresh,https://www.rottentomatoes.com/m/nope,True,Nope |,Nope
 The Good Boss,/assets/pizza-pie/images/poster_default.c8c896e70c3.gif,2021,"Javier Bardem,Almudena Amor,Manolo Solo",92,certified-fresh,https://www.rottentomatoes.com/m/the_good_boss,True,The Good Boss |,The Good Boss
 Daisies,/assets/pizza-pie/images/poster_default.c8c896e70c3.gif,1966,"Jitka Cerhová,Ivana Karbandova,Julius Albert",85,fresh,https://www.rottentomatoes.com/m/daisies,True,Daisies |,Daisies
+Mrs. Harris Goes to Paris,/assets/pizza-pie/images/poster_default.c8c896e70c3.gif,2022,"Lesley Manville,Isabelle Huppert,Jason Isaacs",95,certified-fresh,https://www.rottentomatoes.com/m/mrs_harris_goes_to_paris,True,Mrs. Harris Goes to Paris | Anthony Fabian,Mrs. Harris Goes to Paris
 The Good Boss,/assets/pizza-pie/images/poster_default.c8c896e70c3.gif,2021,"Javier Bardem,Almudena Amor,Manolo Solo",92,certified-fresh,https://www.rottentomatoes.com/m/the_good_boss,True,The Good Boss | Fernando León de Aranoa,The Good Boss
+Bodies Bodies Bodies,/assets/pizza-pie/images/poster_default.c8c896e70c3.gif,2022,"Amandla Stenberg,Maria Bakalova,Myha'la Herrold",85,certified-fresh,https://www.rottentomatoes.com/m/bodies_bodies_bodies,True,Bodies Bodies Bodies | Halina Reijn,Bodies Bodies Bodies
+Three Thousand Years of Longing,/assets/pizza-pie/images/poster_default.c8c896e70c3.gif,2022,"Idris Elba,Tilda Swinton,Aamito Lagum",71,fresh,https://www.rottentomatoes.com/m/three_thousand_years_of_longing,True,Three Thousand Years of Longing | George Miller,Three Thousand Years of Longing
 Repo Man,/assets/pizza-pie/images/poster_default.c8c896e70c3.gif,1984,"Emilio Estevez,Harry Dean Stanton,Tracey Walter",98,certified-fresh,https://www.rottentomatoes.com/m/repo_man,True,Repo Man | Alex Cox,Repo Man
 Modern Times,/assets/pizza-pie/images/poster_default.c8c896e70c3.gif,1936,"Charlie Chaplin,Paulette Goddard,Henry Bergman",98,certified-fresh,https://www.rottentomatoes.com/m/modern_times,True,Modern Times |,Modern Times
+Nope,/assets/pizza-pie/images/poster_default.c8c896e70c3.gif,2022,"Daniel Kaluuya,Keke Palmer,Steven Yeun",83,certified-fresh,https://www.rottentomatoes.com/m/nope,True,Nope | Jordan Peele,Nope
+Girl Picture,/assets/pizza-pie/images/poster_default.c8c896e70c3.gif,2022,"Aamu Milonoff,Linnea Leino,Sonya Lindfors",98,certified-fresh,https://www.rottentomatoes.com/m/girl_picture,True,Girl Picture |,Girl Picture
 Office Space,/assets/pizza-pie/images/poster_default.c8c896e70c3.gif,1999,"Ron Livingston,Jennifer Aniston,David Herman",80,certified-fresh,https://www.rottentomatoes.com/m/office_space,True,Office Space | Mike Judge,Office Space
 Ran,/assets/pizza-pie/images/poster_default.c8c896e70c3.gif,1985,"Tatsuya Nakadai,Mieko Harada,Akira Terao",96,certified-fresh,https://www.rottentomatoes.com/m/ran,True,Ran | Akira Kurosawa,Ran
 A Fistful of Dollars,/assets/pizza-pie/images/poster_default.c8c896e70c3.gif,1964,"Clint Eastwood,Marianne Koch,Joe Edger",96,certified-fresh,https://www.rottentomatoes.com/m/fistful_of_dollars,True,A Fistful of Dollars | Sergio Leone,A Fistful of Dollars
@@ -82,6 +81,15 @@ Dinner in America,/assets/pizza-pie/images/poster_default.c8c896e70c3.gif,2020,"
 Cruising,/assets/pizza-pie/images/poster_default.c8c896e70c3.gif,1980,"Al Pacino,Paul Sorvino,Karen Allen",50,rotten,https://www.rottentomatoes.com/m/cruising,True,Cruising |,Cruising
 Three Windows and a Hanging,/assets/pizza-pie/images/poster_default.c8c896e70c3.gif,2014,"Irena Cahani,Luan Jaha,Donat Qosja",100,fresh,https://www.rottentomatoes.com/m/three_windows_and_a_hanging,False,Windows |,Windows
 "Dr. Mabuse, the Gambler",/assets/pizza-pie/images/poster_default.c8c896e70c3.gif,1922,"Rudolf Klein-Rogge,Alfred Abel,Aud Egede Nissen",94,fresh,https://www.rottentomatoes.com/m/dr_mabuse_the_gambler,True,"Dr. Mabuse, the Gambler |","Dr. Mabuse, the Gambler"
+The Decline of Western Civilization Part III,/assets/pizza-pie/images/poster_default.c8c896e70c3.gif,1998,"Gary Fredo,Rick Wilder",100,fresh,https://www.rottentomatoes.com/m/the_decline_of_western_civilization_part_iii_1998,False,"Seminar: Three Color: Blue
+
+
+
+Part of Seminar: Three Color: Blue |","Seminar: Three Color: Blue
+
+
+
+Part of Seminar: Three Color: Blue"
 Three Colors: Red,/assets/pizza-pie/images/poster_default.c8c896e70c3.gif,1994,"Irène Jacob,Jean-Louis Trintignant,Frédérique Feder",100,certified-fresh,https://www.rottentomatoes.com/m/1058966-red,False,"Three Colors: Blue
 
 
@@ -101,6 +109,15 @@ Trois Couleurs: Blanc,/assets/pizza-pie/images/poster_default.c8c896e70c3.gif,19
 Daphne,/assets/pizza-pie/images/poster_default.c8c896e70c3.gif,2017,"Emily Beecham,Tom Vaughan-Lawlor,Geraldine James",100,fresh,https://www.rottentomatoes.com/m/daphne,False,Jack Absolute Flies Again | Emily Burns,Jack Absolute Flies Again
 The Fog,/assets/pizza-pie/images/poster_default.c8c896e70c3.gif,1980,"Adrienne Barbeau,Hal Holbrook,Janet Leigh",75,certified-fresh,https://www.rottentomatoes.com/m/the_fog_1980,True,The Fog | John Carpenter,The Fog
 Escape From New York,/assets/pizza-pie/images/poster_default.c8c896e70c3.gif,1981,"Kurt Russell,Ernest Borgnine,Adrienne Barbeau",86,certified-fresh,https://www.rottentomatoes.com/m/1006717-escape_from_new_york,True,Escape from New York | John Carpenter,Escape from New York
+They Live by Night,/assets/pizza-pie/images/poster_default.c8c896e70c3.gif,1948,"Cathy O'Donnell,Farley Granger,Howard da Silva",96,fresh,https://www.rottentomatoes.com/m/they_live_by_night,False,"Seminar: They Live
+
+
+
+Part of Seminar: They Live |","Seminar: They Live
+
+
+
+Part of Seminar: They Live"
 They Live,/assets/pizza-pie/images/poster_default.c8c896e70c3.gif,1988,"Roddy Piper,Keith David,Meg Foster",85,certified-fresh,https://www.rottentomatoes.com/m/they_live,False,"They Live
 
 
