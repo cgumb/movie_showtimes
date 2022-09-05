@@ -1,8 +1,8 @@
 title,poster,year,cast,score,cert,rt_link,exact_match,query_str,listing_title
-Daisies,/assets/pizza-pie/images/poster_default.c8c896e70c3.gif,1966,"Jitka Cerhová,Ivana Karbandova,Julius Albert",85,fresh,https://www.rottentomatoes.com/m/daisies,True,Daisies |,Daisies
 Modern Times,/assets/pizza-pie/images/poster_default.c8c896e70c3.gif,1936,"Charlie Chaplin,Paulette Goddard,Henry Bergman",98,certified-fresh,https://www.rottentomatoes.com/m/modern_times,True,Modern Times |,Modern Times
 Nope,/assets/pizza-pie/images/poster_default.c8c896e70c3.gif,2022,"Daniel Kaluuya,Keke Palmer,Steven Yeun",82,certified-fresh,https://www.rottentomatoes.com/m/nope,True,Nope |,Nope
 The Good Boss,/assets/pizza-pie/images/poster_default.c8c896e70c3.gif,2021,"Javier Bardem,Almudena Amor,Manolo Solo",92,certified-fresh,https://www.rottentomatoes.com/m/the_good_boss,True,The Good Boss |,The Good Boss
+Daisies,/assets/pizza-pie/images/poster_default.c8c896e70c3.gif,1966,"Jitka Cerhová,Ivana Karbandova,Julius Albert",85,fresh,https://www.rottentomatoes.com/m/daisies,True,Daisies |,Daisies
 Apocalypse Now Redux,/assets/pizza-pie/images/poster_default.c8c896e70c3.gif,1979,"Marlon Brando,Robert Duvall,Martin Sheen",93,certified-fresh,https://www.rottentomatoes.com/m/apocalypse_now_redux_2001,False,Apocalypse Now: Final Cut |,Apocalypse Now: Final Cut
 Mrs. Harris Goes to Paris,/assets/pizza-pie/images/poster_default.c8c896e70c3.gif,2022,"Lesley Manville,Isabelle Huppert,Jason Isaacs",95,certified-fresh,https://www.rottentomatoes.com/m/mrs_harris_goes_to_paris,True,Mrs. Harris Goes to Paris | Anthony Fabian,Mrs. Harris Goes to Paris
 Three Thousand Years of Longing,/assets/pizza-pie/images/poster_default.c8c896e70c3.gif,2022,"Idris Elba,Tilda Swinton,Aamito Lagum",71,fresh,https://www.rottentomatoes.com/m/three_thousand_years_of_longing,True,Three Thousand Years of Longing | George Miller,Three Thousand Years of Longing
@@ -38,6 +38,15 @@ Carnal Knowledge,/assets/pizza-pie/images/poster_default.c8c896e70c3.gif,1971,"J
 Saloum,/assets/pizza-pie/images/poster_default.c8c896e70c3.gif,2021,"Yann Gael,Evelyne Ily Juhen,Roger Sallah",97,fresh,https://www.rottentomatoes.com/m/saloum,True,Saloum |,Saloum
 Enter the Dragon,/assets/pizza-pie/images/poster_default.c8c896e70c3.gif,1973,"Bruce Lee,John Saxon,Jim Kelly",95,certified-fresh,https://www.rottentomatoes.com/m/enter_the_dragon,True,Enter the Dragon |,Enter the Dragon
 A Choice of Weapons: Inspired by Gordon Parks,/assets/pizza-pie/images/poster_default.c8c896e70c3.gif,2021,"Kareem Abdul-Jabbar,Anderson Cooper,Spike Lee",88,fresh,https://www.rottentomatoes.com/m/a_choice_of_weapons_inspired_by_gordon_parks,False,Shaft (1971) | Gordon Parks,Shaft (1971)
+Fulci for Fake,/assets/pizza-pie/images/poster_default.c8c896e70c3.gif,2019,"Fabio Frizzi,Antonella Fulci,Paolo Malco",100,fresh,https://www.rottentomatoes.com/m/fulci_for_fake,False,"Coolidge After Midnite Honors Fabio Frizzi
+
+
+
+Part of Coolidge After Midnite Honors Fabio Frizzi | Lucio Fulci","Coolidge After Midnite Honors Fabio Frizzi
+
+
+
+Part of Coolidge After Midnite Honors Fabio Frizzi"
 Meantime,/assets/pizza-pie/images/poster_default.c8c896e70c3.gif,1983,"Marion Bailey,Phil Daniels,Tim Roth",78,fresh,https://www.rottentomatoes.com/m/meantime,True,Meantime |,Meantime
 Fulci for Fake,/assets/pizza-pie/images/poster_default.c8c896e70c3.gif,2019,"Fabio Frizzi,Antonella Fulci,Paolo Malco",100,fresh,https://www.rottentomatoes.com/m/fulci_for_fake,False,"Frizzi 2 Fulci
 
@@ -67,7 +76,6 @@ Alma's Rainbow,/assets/pizza-pie/images/poster_default.c8c896e70c3.gif,1994,"Kim
 My Son,/assets/pizza-pie/images/poster_default.c8c896e70c3.gif,2017,"Guillaume Canet,Mélanie Laurent,Olivier de Benoist",63,fresh,https://www.rottentomatoes.com/m/my_son_2019,True,My Son | Lena Stahl,My Son
 Still Working 9 to 5,/assets/pizza-pie/images/poster_default.c8c896e70c3.gif,2022,"Dolly Parton,Jane Fonda,Lily Tomlin",92,fresh,https://www.rottentomatoes.com/m/still_working_9_to_5,False,RPM Fest presents Ariana Gerstein – Still/Distill |,RPM Fest presents Ariana Gerstein – Still/Distill
 Mississippi Masala,/assets/pizza-pie/images/poster_default.c8c896e70c3.gif,1991,"Denzel Washington,Sarita Choudhury,Roshan Seth",92,certified-fresh,https://www.rottentomatoes.com/m/mississippi_masala,True,Mississippi Masala |,Mississippi Masala
-Dinner in America,/assets/pizza-pie/images/poster_default.c8c896e70c3.gif,2020,"Kyle Gallner,Emily Skeggs,Griffin Gluck",91,certified-fresh,https://www.rottentomatoes.com/m/dinner_in_america,True,Dinner in America |,Dinner in America
 Cruising,/assets/pizza-pie/images/poster_default.c8c896e70c3.gif,1980,"Al Pacino,Paul Sorvino,Karen Allen",50,rotten,https://www.rottentomatoes.com/m/cruising,True,Cruising |,Cruising
 Three Windows and a Hanging,/assets/pizza-pie/images/poster_default.c8c896e70c3.gif,2014,"Irena Cahani,Luan Jaha,Donat Qosja",100,fresh,https://www.rottentomatoes.com/m/three_windows_and_a_hanging,False,Windows |,Windows
 "Dr. Mabuse, the Gambler",/assets/pizza-pie/images/poster_default.c8c896e70c3.gif,1922,"Rudolf Klein-Rogge,Alfred Abel,Aud Egede Nissen",94,fresh,https://www.rottentomatoes.com/m/dr_mabuse_the_gambler,True,"Dr. Mabuse, the Gambler |","Dr. Mabuse, the Gambler"
