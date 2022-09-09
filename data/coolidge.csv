@@ -1,15 +1,4 @@
 theater,title,date,time,link,poster,info
-Coolidge,Mrs. Harris Goes to Paris,09-08,3:45 PM,https://store.coolidge.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=754284~2227d6a5-68f5-41c2-b22e-813c872c64f4&amp;,https://www.coolidge.org/sites/default/files/styles/base/public/featured_images/MHP_17724_R.jpg?h=0314a95d&itok=guIMi6d6,Anthony Fabian
-Coolidge,Three Thousand Years of Longing,09-08,4:00 PM,https://store.coolidge.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=754240~2227d6a5-68f5-41c2-b22e-813c872c64f4&amp;,https://www.coolidge.org/sites/default/files/styles/base/public/featured_images/image3.jpg?h=3236eef1&itok=Md_ewMqm,George Miller
-Coolidge,Three Thousand Years of Longing,09-08,7:15 PM,https://store.coolidge.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=754231~2227d6a5-68f5-41c2-b22e-813c872c64f4&amp;,https://www.coolidge.org/sites/default/files/styles/base/public/featured_images/image3.jpg?h=3236eef1&itok=Md_ewMqm,George Miller
-Coolidge,Three Thousand Years of Longing,09-08,9:30 PM,https://store.coolidge.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=754236~2227d6a5-68f5-41c2-b22e-813c872c64f4&amp;,https://www.coolidge.org/sites/default/files/styles/base/public/featured_images/image3.jpg?h=3236eef1&itok=Md_ewMqm,George Miller
-Coolidge,Bodies Bodies Bodies,09-08,4:45 PM,https://store.coolidge.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=754248~2227d6a5-68f5-41c2-b22e-813c872c64f4&amp;,https://www.coolidge.org/sites/default/files/styles/base/public/featured_images/BBB_05295_R.jpg?h=f2e576ea&itok=-yL1CCTi,Halina Reijn
-Coolidge,Bodies Bodies Bodies,09-08,6:45 PM,https://store.coolidge.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=754265~2227d6a5-68f5-41c2-b22e-813c872c64f4&amp;,https://www.coolidge.org/sites/default/files/styles/base/public/featured_images/BBB_05295_R.jpg?h=f2e576ea&itok=-yL1CCTi,Halina Reijn
-Coolidge,Bodies Bodies Bodies,09-08,9:55 PM,https://store.coolidge.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=754254~2227d6a5-68f5-41c2-b22e-813c872c64f4&amp;,https://www.coolidge.org/sites/default/files/styles/base/public/featured_images/BBB_05295_R.jpg?h=f2e576ea&itok=-yL1CCTi,Halina Reijn
-Coolidge,Nope,09-08,6:30 PM,https://store.coolidge.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=754277~2227d6a5-68f5-41c2-b22e-813c872c64f4&amp;,https://www.coolidge.org/sites/default/files/styles/base/public/featured_images/2541_FP_00001A%20copy.jpg?h=a78f61c1&itok=qPF-MRTB,Jordan Peele
-Coolidge,Nope,09-08,9:00 PM,https://store.coolidge.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=754275~2227d6a5-68f5-41c2-b22e-813c872c64f4&amp;,https://www.coolidge.org/sites/default/files/styles/base/public/featured_images/2541_FP_00001A%20copy.jpg?h=a78f61c1&itok=qPF-MRTB,Jordan Peele
-Coolidge,Juice,09-08,7:00 PM,https://store.coolidge.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=721554~2227d6a5-68f5-41c2-b22e-813c872c64f4&amp;,https://www.coolidge.org/sites/default/files/styles/base/public/featured_images/Juice.png?h=14161f7c&itok=M9nmwY5O,Ernest R. Dickerson
-Coolidge,The Good Boss,09-08,9:15 PM,https://store.coolidge.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=754292~2227d6a5-68f5-41c2-b22e-813c872c64f4&amp;,https://www.coolidge.org/sites/default/files/styles/base/public/featured_images/the%20good%20boss.jpeg?h=bb398acb&itok=mJI2Qi74,Fernando León de Aranoa
 Coolidge,Three Thousand Years of Longing,09-09,4:00 PM,https://store.coolidge.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=755092~2227d6a5-68f5-41c2-b22e-813c872c64f4&amp;,https://www.coolidge.org/sites/default/files/styles/base/public/featured_images/image3.jpg?h=3236eef1&itok=Md_ewMqm,George Miller
 Coolidge,Three Thousand Years of Longing,09-09,7:00 PM,https://store.coolidge.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=755084~2227d6a5-68f5-41c2-b22e-813c872c64f4&amp;,https://www.coolidge.org/sites/default/files/styles/base/public/featured_images/image3.jpg?h=3236eef1&itok=Md_ewMqm,George Miller
 Coolidge,Three Thousand Years of Longing,09-09,9:45 PM,https://store.coolidge.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=755098~2227d6a5-68f5-41c2-b22e-813c872c64f4&amp;,https://www.coolidge.org/sites/default/files/styles/base/public/featured_images/image3.jpg?h=3236eef1&itok=Md_ewMqm,George Miller
@@ -144,10 +133,20 @@ Coolidge,Minority Report,09-29,7:00 PM,https://store.coolidge.org/websales/pages
 Coolidge,Night of the Demons,09-30,11:59 PM,https://store.coolidge.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=748537~2227d6a5-68f5-41c2-b22e-813c872c64f4&amp;,https://www.coolidge.org/sites/default/files/styles/base/public/featured_images/HP02-07.jpg?h=39c5cfa9&itok=0Ns8Azgs,Kevin Tenney
 Coolidge,Dark Star,10-01,11:59 PM,https://store.coolidge.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=750891~2227d6a5-68f5-41c2-b22e-813c872c64f4&amp;,https://www.coolidge.org/sites/default/files/styles/base/public/featured_images/darkstar09.jpg?h=8dff8cd8&itok=HPQtjfi_,John Carpenter
 Coolidge,Psycho,10-03,7:00 PM,https://store.coolidge.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=750795~2227d6a5-68f5-41c2-b22e-813c872c64f4&amp;,https://www.coolidge.org/sites/default/files/styles/base/public/featured_images/Psycho%20New%20Site.jpg?h=ff98c3b8&itok=E1zyL6aA,Alfred Hitchcock
+Coolidge,"The Coolidge Goes West!
+
+
+
+Part of The Coolidge Goes West!",10-04,10:00 AM,https://store.coolidge.org/websales/pages/entrypoint.aspx?guid=b8070f52-5c6d-43cc-b6f1-ce6428c01b34&amp;,https://www.coolidge.org/sites/default/files/styles/base/public/featured_images/The%20Searchers%201%20website.jpg?h=8ca67fef&itok=Ma0wXWJP,
 Coolidge,Three Colors: White,10-05,7:00 PM,https://store.coolidge.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=751959~2227d6a5-68f5-41c2-b22e-813c872c64f4&amp;,https://www.coolidge.org/sites/default/files/styles/base/public/featured_images/27732id__0000_27732id_346.jpg?h=cd770316&itok=inHgTJ72,Krzysztof Kieslowski
 Coolidge,Jack Absolute Flies Again,10-06,7:00 PM,https://store.coolidge.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=735672~2227d6a5-68f5-41c2-b22e-813c872c64f4&amp;,https://www.coolidge.org/sites/default/files/styles/base/public/featured_images/NTL%202022%20Jack%20Absolute%20Flies%20Again%20Production%20Photography%2018%20%28credit%20Brinkhoff%20Mo%CC%88genburg%29.JPG?h=97c365f3&itok=EAzfDOJn,Emily Burns
 Coolidge,The Fog,10-07,11:59 PM,https://store.coolidge.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=750889~2227d6a5-68f5-41c2-b22e-813c872c64f4&amp;,https://www.coolidge.org/sites/default/files/styles/base/public/featured_images/The%20Fog%20new%20site.jpg?h=833de465&itok=NcyzK21z,John Carpenter
 Coolidge,Escape from New York,10-08,11:59 PM,https://store.coolidge.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=750890~2227d6a5-68f5-41c2-b22e-813c872c64f4&amp;,https://www.coolidge.org/sites/default/files/styles/base/public/featured_images/ENY_1981_KRussell1%20copy.jpg?h=e5095d50&itok=1laDH44J,John Carpenter
+Coolidge,"The Coolidge Goes West!
+
+
+
+Part of The Coolidge Goes West!",10-11,10:00 AM,https://store.coolidge.org/websales/pages/entrypoint.aspx?guid=b8070f52-5c6d-43cc-b6f1-ce6428c01b34&amp;,https://www.coolidge.org/sites/default/files/styles/base/public/featured_images/The%20Searchers%201%20website.jpg?h=8ca67fef&itok=Ma0wXWJP,
 Coolidge,"Seminar: They Live
 
 
@@ -160,13 +159,28 @@ Coolidge,"They Live
 Part of Seminar: They Live",10-13,7:00 PM,https://store.coolidge.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=750785~2227d6a5-68f5-41c2-b22e-813c872c64f4&amp;,https://www.coolidge.org/sites/default/files/styles/base/public/featured_images/They%20Live%201%20website.jpg?h=120b50d3&itok=SR1xXEVT,John Carpenter
 Coolidge,The Thing (1982),10-14,11:59 PM,https://store.coolidge.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=750895~2227d6a5-68f5-41c2-b22e-813c872c64f4&amp;,https://www.coolidge.org/sites/default/files/styles/base/public/featured_images/The%20Thing%20new%20site.jpg?h=8224761a&itok=ww-XHtsQ,John Carpenter
 Coolidge,Christine,10-15,11:59 PM,https://store.coolidge.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=750894~2227d6a5-68f5-41c2-b22e-813c872c64f4&amp;,https://www.coolidge.org/sites/default/files/styles/base/public/featured_images/christine_banner.jpg?h=6940cc4d&itok=9HNrM4HB,John Carpenter
+Coolidge,"The Coolidge Goes West!
+
+
+
+Part of The Coolidge Goes West!",10-18,10:00 AM,https://store.coolidge.org/websales/pages/entrypoint.aspx?guid=b8070f52-5c6d-43cc-b6f1-ce6428c01b34&amp;,https://www.coolidge.org/sites/default/files/styles/base/public/featured_images/The%20Searchers%201%20website.jpg?h=8ca67fef&itok=Ma0wXWJP,
 Coolidge,Three Colors: Red,10-19,7:00 PM,https://store.coolidge.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=751960~2227d6a5-68f5-41c2-b22e-813c872c64f4&amp;,https://www.coolidge.org/sites/default/files/styles/base/public/featured_images/27733id__0000_27733id_183.jpg?h=ccaa9528&itok=1O1g9EK8,Krzysztof Kieslowski
 Coolidge,The Greatest Showman Sing-Along,10-20,7:00 PM,https://store.coolidge.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=749631~2227d6a5-68f5-41c2-b22e-813c872c64f4&amp;,https://www.coolidge.org/sites/default/files/styles/base/public/featured_images/Greatest_Showman_2017_3%20copy.jpg?h=06e4f421&itok=fiQcPJe2,Michael Gracey
 Coolidge,Prince of Darkness,10-21,11:59 PM,https://store.coolidge.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=750893~2227d6a5-68f5-41c2-b22e-813c872c64f4&amp;,https://www.coolidge.org/sites/default/files/styles/base/public/featured_images/Prince%20of%20Darkness%20new%20site.jpg?h=60e8a701&itok=oc3yfqer,John Carpenter
 Coolidge,In the Mouth of Madness,10-22,11:59 PM,https://store.coolidge.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=750892~2227d6a5-68f5-41c2-b22e-813c872c64f4&amp;,https://www.coolidge.org/sites/default/files/styles/base/public/featured_images/Mouth_Madness_95_Neill_5%20copy.jpg?h=69fee8cf&itok=OxJeaCe-,John Carpenter
 Coolidge,Night of the Living Dead,10-24,7:00 PM,https://store.coolidge.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=750786~2227d6a5-68f5-41c2-b22e-813c872c64f4&amp;,https://www.coolidge.org/sites/default/files/styles/base/public/featured_images/Night%20of%20the%20Living%20Dead%201%20720.jpg?h=c673cd1c&itok=H8U97I3Z,George A. Romero
+Coolidge,"The Coolidge Goes West!
+
+
+
+Part of The Coolidge Goes West!",10-25,10:00 AM,https://store.coolidge.org/websales/pages/entrypoint.aspx?guid=b8070f52-5c6d-43cc-b6f1-ce6428c01b34&amp;,https://www.coolidge.org/sites/default/files/styles/base/public/featured_images/The%20Searchers%201%20website.jpg?h=8ca67fef&itok=Ma0wXWJP,
 Coolidge,Jennifer’s Body,10-27,7:00 PM,https://store.coolidge.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=733990~2227d6a5-68f5-41c2-b22e-813c872c64f4&amp;,https://www.coolidge.org/sites/default/files/styles/base/public/featured_images/JB-056%20copy.jpg?h=2b76be1a&itok=k59fZsKY,Karyn Kusama
 Coolidge,John Carpenter’s Vampires,10-28,11:59 PM,https://store.coolidge.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=750896~2227d6a5-68f5-41c2-b22e-813c872c64f4&amp;,https://www.coolidge.org/sites/default/files/styles/base/public/featured_images/Vampires_1998_2%20copy.jpg?h=edb1ecd4&itok=EsIojx7x,John Carpenter
 Coolidge,21st Halloween Horror Marathon,10-29,11:59 PM,https://store.coolidge.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=751791~2227d6a5-68f5-41c2-b22e-813c872c64f4&amp;,https://www.coolidge.org/sites/default/files/styles/base/public/featured_images/2022%20HHM%20web.jpg?h=f739e93e&itok=mcFoDDUA,Tod Browning
 Coolidge,Halloween,10-31,7:00 PM,https://store.coolidge.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=750792~2227d6a5-68f5-41c2-b22e-813c872c64f4&amp;,https://www.coolidge.org/sites/default/files/styles/base/public/featured_images/Halloween%20new%20site.jpg?h=b5901402&itok=IpwAp6f5,John Carpenter
+Coolidge,"The Coolidge Goes West!
+
+
+
+Part of The Coolidge Goes West!",11-01,10:00 AM,https://store.coolidge.org/websales/pages/entrypoint.aspx?guid=b8070f52-5c6d-43cc-b6f1-ce6428c01b34&amp;,https://www.coolidge.org/sites/default/files/styles/base/public/featured_images/The%20Searchers%201%20website.jpg?h=8ca67fef&itok=Ma0wXWJP,
 Coolidge,The Seagull,11-03,7:00 PM,https://store.coolidge.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=747326~2227d6a5-68f5-41c2-b22e-813c872c64f4&amp;,https://www.coolidge.org/sites/default/files/styles/base/public/featured_images/NTL%202022%20The%20Seagull%20-%20Production%20Photography%2010.jpg?h=2422ffca&itok=ixbib-gA,Jamie Lloyd
