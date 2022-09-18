@@ -1,42 +1,22 @@
 title,poster,year,cast,score,cert,rt_link,exact_match,query_str,listing_title
-See How They Run,/assets/pizza-pie/images/poster_default.c8c896e70c3.gif,2022,"Sam Rockwell,Saoirse Ronan,David Oyelowo",71,fresh,https://www.rottentomatoes.com/m/see_how_they_run,True,See How They Run | Tom George,See How They Run
 Enter the Dragon,/assets/pizza-pie/images/poster_default.c8c896e70c3.gif,1973,"Bruce Lee,John Saxon,Jim Kelly",95,certified-fresh,https://www.rottentomatoes.com/m/enter_the_dragon,True,Enter the Dragon |,Enter the Dragon
-God's Country,/assets/pizza-pie/images/poster_default.c8c896e70c3.gif,2022,"Thandiwe Newton,Dan Gravage,Tanaya Beatty",86,certified-fresh,https://www.rottentomatoes.com/m/gods_country_2022,False,God’s Country | Julian Higgins,God’s Country
-A Choice of Weapons: Inspired by Gordon Parks,/assets/pizza-pie/images/poster_default.c8c896e70c3.gif,2021,"Kareem Abdul-Jabbar,Anderson Cooper,Spike Lee",88,fresh,https://www.rottentomatoes.com/m/a_choice_of_weapons_inspired_by_gordon_parks,False,Shaft (1971) | Gordon Parks,Shaft (1971)
-Fulci for Fake,/assets/pizza-pie/images/poster_default.c8c896e70c3.gif,2019,"Fabio Frizzi,Antonella Fulci,Paolo Malco",100,fresh,https://www.rottentomatoes.com/m/fulci_for_fake,False,"Coolidge After Midnite Honors Fabio Frizzi
-
-
-
-Part of Coolidge After Midnite Honors Fabio Frizzi | Lucio Fulci","Coolidge After Midnite Honors Fabio Frizzi
-
-
-
-Part of Coolidge After Midnite Honors Fabio Frizzi"
-Three Thousand Years of Longing,/assets/pizza-pie/images/poster_default.c8c896e70c3.gif,2022,"Idris Elba,Tilda Swinton,Aamito Lagum",71,fresh,https://www.rottentomatoes.com/m/three_thousand_years_of_longing,True,Three Thousand Years of Longing | George Miller,Three Thousand Years of Longing
-Bodies Bodies Bodies,/assets/pizza-pie/images/poster_default.c8c896e70c3.gif,2022,"Amandla Stenberg,Maria Bakalova,Myha'la Herrold",86,certified-fresh,https://www.rottentomatoes.com/m/bodies_bodies_bodies,True,Bodies Bodies Bodies | Halina Reijn,Bodies Bodies Bodies
 Barbarian,/assets/pizza-pie/images/poster_default.c8c896e70c3.gif,2022,"Georgina Campbell,Bill Skarsgård,Justin Long",93,certified-fresh,https://www.rottentomatoes.com/m/barbarian_2022,True,Barbarian |,Barbarian
-Saloum,/assets/pizza-pie/images/poster_default.c8c896e70c3.gif,2021,"Yann Gael,Evelyne Ily Juhen,Roger Sallah",96,certified-fresh,https://www.rottentomatoes.com/m/saloum,True,Saloum |,Saloum
 Carnal Knowledge,/assets/pizza-pie/images/poster_default.c8c896e70c3.gif,1971,"Jack Nicholson,Art Garfunkel,Ann-Margret",88,fresh,https://www.rottentomatoes.com/m/carnal_knowledge,True,Carnal Knowledge |,Carnal Knowledge
 Pearl,/assets/pizza-pie/images/poster_default.c8c896e70c3.gif,2018,"Julia Föry,Peter Mullan,Vidal Arzoni",100,fresh,https://www.rottentomatoes.com/m/pearl_2018,True,Pearl |,Pearl
-Meantime,/assets/pizza-pie/images/poster_default.c8c896e70c3.gif,1983,"Marion Bailey,Phil Daniels,Tim Roth",78,fresh,https://www.rottentomatoes.com/m/meantime,True,Meantime |,Meantime
-Funny Pages,/assets/pizza-pie/images/poster_default.c8c896e70c3.gif,2022,"Daniel Zolghadri,Matthew Maher,Miles Emanuel",80,certified-fresh,https://www.rottentomatoes.com/m/funny_pages,True,Funny Pages | Owen Kline,Funny Pages
 The Good Boss,/assets/pizza-pie/images/poster_default.c8c896e70c3.gif,2021,"Javier Bardem,Almudena Amor,Manolo Solo",92,certified-fresh,https://www.rottentomatoes.com/m/the_good_boss,True,The Good Boss |,The Good Boss
-High Hopes,/assets/pizza-pie/images/poster_default.c8c896e70c3.gif,1988,"Philip Davis,Ruth Sheen,Edna Doré",92,fresh,https://www.rottentomatoes.com/m/1009601-high_hopes,True,High Hopes |,High Hopes
-Fulci for Fake,/assets/pizza-pie/images/poster_default.c8c896e70c3.gif,2019,"Fabio Frizzi,Antonella Fulci,Paolo Malco",100,fresh,https://www.rottentomatoes.com/m/fulci_for_fake,False,"Frizzi 2 Fulci
-
-
-
-Part of Coolidge After Midnite Honors Fabio Frizzi |","Frizzi 2 Fulci
-
-
-
-Part of Coolidge After Midnite Honors Fabio Frizzi"
 Nope,/assets/pizza-pie/images/poster_default.c8c896e70c3.gif,2022,"Daniel Kaluuya,Keke Palmer,Steven Yeun",82,certified-fresh,https://www.rottentomatoes.com/m/nope,True,Nope |,Nope
+Saloum,/assets/pizza-pie/images/poster_default.c8c896e70c3.gif,2021,"Yann Gael,Evelyne Ily Juhen,Roger Sallah",96,certified-fresh,https://www.rottentomatoes.com/m/saloum,True,Saloum |,Saloum
+Bodies Bodies Bodies,/assets/pizza-pie/images/poster_default.c8c896e70c3.gif,2022,"Amandla Stenberg,Maria Bakalova,Myha'la Herrold",86,certified-fresh,https://www.rottentomatoes.com/m/bodies_bodies_bodies,True,Bodies Bodies Bodies | Halina Reijn,Bodies Bodies Bodies
+God's Country,/assets/pizza-pie/images/poster_default.c8c896e70c3.gif,2022,"Thandiwe Newton,Dan Gravage,Tanaya Beatty",86,certified-fresh,https://www.rottentomatoes.com/m/gods_country_2022,False,God’s Country | Julian Higgins,God’s Country
+See How They Run,/assets/pizza-pie/images/poster_default.c8c896e70c3.gif,2022,"Sam Rockwell,Saoirse Ronan,David Oyelowo",70,fresh,https://www.rottentomatoes.com/m/see_how_they_run,True,See How They Run | Tom George,See How They Run
+Three Thousand Years of Longing,/assets/pizza-pie/images/poster_default.c8c896e70c3.gif,2022,"Idris Elba,Tilda Swinton,Aamito Lagum",71,fresh,https://www.rottentomatoes.com/m/three_thousand_years_of_longing,True,Three Thousand Years of Longing | George Miller,Three Thousand Years of Longing
 Infernal Affairs,/assets/pizza-pie/images/poster_default.c8c896e70c3.gif,2002,"Tony Leung,Andy Lau,Anthony Wong",94,certified-fresh,https://www.rottentomatoes.com/m/infernal_affairs,False,"Infernal Affairs Trilogy | Andrew Lau, Alan Mak",Infernal Affairs Trilogy
 Topsy-Turvy,/assets/pizza-pie/images/poster_default.c8c896e70c3.gif,1999,"Jim Broadbent,Allan Corduner,Lesley Manville",90,certified-fresh,https://www.rottentomatoes.com/m/topsyturvy,True,Topsy-Turvy |,Topsy-Turvy
 Career Girls,/assets/pizza-pie/images/poster_default.c8c896e70c3.gif,1997,"Katrin Cartlidge,Lynda Steadman,Kate Byers",88,fresh,https://www.rottentomatoes.com/m/career_girls,True,Career Girls |,Career Girls
+Funny Pages,/assets/pizza-pie/images/poster_default.c8c896e70c3.gif,2022,"Daniel Zolghadri,Matthew Maher,Miles Emanuel",80,certified-fresh,https://www.rottentomatoes.com/m/funny_pages,True,Funny Pages | Owen Kline,Funny Pages
 Naked,/assets/pizza-pie/images/poster_default.c8c896e70c3.gif,1993,"David Thewlis,Lesley Sharp,Katrin Cartlidge",88,certified-fresh,https://www.rottentomatoes.com/m/1048185-naked,True,Naked |,Naked
 Zodiac,/assets/pizza-pie/images/poster_default.c8c896e70c3.gif,2007,"Jake Gyllenhaal,Mark Ruffalo,Robert Downey Jr.",90,certified-fresh,https://www.rottentomatoes.com/m/zodiac,True,Zodiac | David Fincher,Zodiac
+Meantime,/assets/pizza-pie/images/poster_default.c8c896e70c3.gif,1983,"Marion Bailey,Phil Daniels,Tim Roth",78,fresh,https://www.rottentomatoes.com/m/meantime,True,Meantime |,Meantime
 Bleak Moments,/assets/pizza-pie/images/poster_default.c8c896e70c3.gif,1971,"Anne Raitt,Sarah Stephenson,Eric Allan",,,https://www.rottentomatoes.com/m/bleak_moments,False,Bleak Moments |,Bleak Moments
 Little Women,/assets/pizza-pie/images/poster_default.c8c896e70c3.gif,2019,"Saoirse Ronan,Emma Watson,Florence Pugh",95,certified-fresh,https://www.rottentomatoes.com/m/little_women_2019,True,Little Women |,Little Women
 "Relax, I'm from the Future",/assets/pizza-pie/images/poster_default.c8c896e70c3.gif,2023,"Rhys Darby,Gabrielle Graham,Janine Theriault",100,fresh,https://www.rottentomatoes.com/m/relax_im_from_the_future,False,God’s Country with director Julian Higgins | Julian Higgins,God’s Country with director Julian Higgins
