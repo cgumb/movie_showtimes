@@ -1,5 +1,6 @@
 beautifulsoup4
 jupyterlab
+lxml
 pandas
 numpy
 requests
