@@ -1,8 +1,4 @@
 theater,title,date,time,link,poster
-Brattle,The Birds,04-13,"4:30 PM
-",https://brattlefilm.org/movies/the-birds/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/02/24143821/z0iYrJ6GsAMP3abOha7uGMuc5kZ.jpg
-Brattle,The Birds,04-13,"7:00 PM
-",https://brattlefilm.org/movies/the-birds/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/02/24143821/z0iYrJ6GsAMP3abOha7uGMuc5kZ.jpg
 Brattle,Berberian Sound Studio,04-13,9:30 PM,https://brattlefilm.org/movies/berberian-sound-studio/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/02/24143626/sCrLZYF7TU32Vk5bOIJneVAcoKE.jpg
 Brattle,Harvard Book Store presents Mary Louise Kelly,04-14,6:00 PM,https://brattlefilm.org/special_events/harvard-book-store-presents-mary-louise-kelly/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/03/29161107/hbs-kelly-book-scaled.jpg
 Brattle,The Muppet Movie,04-14,"8:00 PM
@@ -46,12 +42,29 @@ Brattle,Seven Samurai,04-22,"7:00 PM
 Brattle,The Lower Depths,04-23,"12:00 PM
 ",https://brattlefilm.org/movies/the-lower-depths/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/02/24150155/nejIs3ezSO0KcbueMbQdIovL2gY.jpg
 Brattle,Navalny,04-24,7:00 PM,https://brattlefilm.org/movies/navalny/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2022/04/13150018/4adYRuDsFNJmDZcx9ygUPfYcTzs.jpg
+Brattle,Harvard Book Store presents Simon Winchester,04-25,6:00 PM,https://brattlefilm.org/special_events/harvard-book-store-presents-simon-winchester/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/03/29161426/hbs-winchester-book.jpg
 Brattle,I Live in Fear,04-25,"8:00 PM
 ",https://brattlefilm.org/movies/i-live-in-fear/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/02/24150226/2EtS8t9fRrHnpVcOOeaqhp9ygcu.jpg
 Brattle,Yojimbo,04-26,"6:00 PM
 ",https://brattlefilm.org/movies/yojimbo/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/02/24150314/tN7kYPjRhDolpui9sc9Eq9n5b2O.jpg
 Brattle,Sanjuro,04-26,"8:15 PM
 ",https://brattlefilm.org/movies/sanjuro-2/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/02/24150414/zW47oIH3bc3ggmmmzTvKqM4Fqjk.jpg
+Brattle,Master Gardener,04-27,7:00 PM,https://brattlefilm.org/movies/master-gardener/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/04/10110857/afkyHDaMblwX2F1zJzMrTnPsDUH.jpg
+Brattle,Charcoal,04-27,9:15 PM,https://brattlefilm.org/movies/charcoal/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/04/13120631/eNiFqO1dxUp3ZxJ20LTO4OyZ7hs.jpg
+Brattle,Confessions of a Good Samaritan,04-28,7:00 PM,https://brattlefilm.org/movies/confessions-of-a-good-samaritan/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/04/10111049/uZhsyO7Tn5LBK8mYFrG2t93fAJz.jpg
+Brattle,Brooklyn 45,04-28,9:30 PM,https://brattlefilm.org/movies/brooklyn-45/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/04/10111106/wY9IJYwY8towwonobBI9PoOVK8Y.jpg
+Brattle,"Contemporary Iran, Visions and Documents",04-29,12:00 PM,https://brattlefilm.org/special_events/contemporary-iran-visions-and-documents/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/04/04162932/cal-poster-400x600-1.png
+Brattle,Bobi Wine: The People’s President,04-29,2:15 PM,https://brattlefilm.org/movies/bobi-wine-the-peoples-president/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/04/12115031/bobi-wine-poster-1.jpg
+Brattle,Fremont,04-29,5:00 PM,https://brattlefilm.org/movies/fremont/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/04/10111238/veH5fu9q3TWRBS5z06uZV2wEcpZ-scaled.jpg
+Brattle,Mean Spirited,04-29,10:00 PM,https://brattlefilm.org/movies/mean-spirited/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/04/10111759/alLsBOmL0AnKV8ytDLN9WeS2erW-scaled.jpg
+Brattle,Aurora’s Sunrise,04-30,2:30 PM,https://brattlefilm.org/movies/auroras-sunrise/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/04/10111820/hPxtTn7noMzQGL7QE0iqWV4GCaj-scaled.jpg
+Brattle,A Compassionate Spy,04-30,5:15 PM,https://brattlefilm.org/movies/a-compassionate-spy/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/04/10111834/bAauKbpcr7ja6fAM752zcJWjwHW.jpg
+Brattle,Never Be A Punching Bag For Nobody,04-30,7:45 PM,https://brattlefilm.org/movies/never-be-a-punching-bag-for-nobody/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/04/10111851/4NbqvpbKyIhxHoZG0VkaikaUTmI.jpg
+Brattle,Being Mary Tyler Moore,05-01,5:00 PM,https://brattlefilm.org/movies/being-mary-tyler-moore/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/04/10111906/zXTqLaIIgCRG727TjgFffFAI4lZ-scaled.jpg
+Brattle,Afire,05-01,7:15 PM,https://brattlefilm.org/movies/afire/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/04/10111917/k8NYzD01zAUsdqocjhLXbO9BSS8.jpg
+Brattle,Kokomo City,05-01,9:30 PM,https://brattlefilm.org/movies/kokomo-city/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/04/10111929/A6xJwNiO80OfA3YPwcJvtqWNgic-scaled.jpg
+Brattle,20 Days in Mariupol,05-02,6:00 PM,https://brattlefilm.org/movies/20-days-in-mariupol/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/04/10111940/prhzlrURZUkSExSpnPevP53T89X.jpg
+Brattle,Riceboy Sleeps,05-02,8:30 PM,https://brattlefilm.org/movies/riceboy-sleeps/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/04/10112010/4Ef1twKz0Cn5nNExFN97IYr6mY6-scaled.jpg
 Brattle,Harvard Book Store presents Maria Sansone,05-04,6:00 PM,https://brattlefilm.org/special_events/harvard-book-store-presents-maria-sansone/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/03/29161819/hbs-sansone-book.jpg
 Brattle,Harvard Book Store presents Alexandra Petri,05-11,6:00 PM,https://brattlefilm.org/special_events/harvard-book-store-presents-alexandra-petri/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/03/29162136/hbs-petri-book.jpg
 Brattle,Harvard Book Store presents R.F. Kuang,05-23,6:00 PM,https://brattlefilm.org/special_events/harvard-book-store-presents-r-f-kuang-2/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/03/01151440/hbs-kuang-book.jpg
