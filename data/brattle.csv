@@ -1,8 +1,8 @@
 theater,title,date,time,link,poster
-Brattle,Godland,05-08,"6:00 PM
-",https://brattlefilm.org/movies/godland/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/04/24113205/s0cWPhzpKJ4kspaleMcOduHBFBw.jpg
 Brattle,Sick of Myself,05-08,"9:00 PM
 ",https://brattlefilm.org/movies/sick-of-myself/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/03/09140610/ynePU5z7JFn2Gf82RmfZgV84H8X.jpg
+Brattle,Godland,05-09,"6:00 PM
+",https://brattlefilm.org/movies/godland/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/04/24113205/s0cWPhzpKJ4kspaleMcOduHBFBw.jpg
 Brattle,Odds Against Tomorrow,05-10,"6:00 PM
 ",https://brattlefilm.org/showtimes/odds-against-tomorrow-5-10-23-600-pm/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/04/28115315/z5941aC7ttyY2gUfyKZfXVq11Sg.jpg
 Brattle,Kansas City,05-10,"8:00 PM
@@ -33,7 +33,8 @@ Brattle,The Darjeeling Limited,05-17,5:00 PM,https://brattlefilm.org/movies/the-
 Brattle,The Darjeeling Limited,05-17,9:30 PM,https://brattlefilm.org/movies/the-darjeeling-limited/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/05/01120955/oSW5OVXTulaIXcoNwJAp5YEKpbP.jpg
 Brattle,The Life Aquatic with Steve Zissou,05-17,"7:00 PM
 ",https://brattlefilm.org/movies/the-life-aquatic-with-steve-zissou/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/05/01121023/qZoFLNBC78jzboWeDH6Ha0qavF2-scaled.jpg
-Brattle,The Grand Budapest Hotel,05-18,4:45 PM,https://brattlefilm.org/movies/the-grand-budapest-hotel/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/05/01121042/eWdyYQreja6JGCzqHWXpWHDrrPo.jpg
+Brattle,The Grand Budapest Hotel,05-18,"4:45 PM
+",https://brattlefilm.org/movies/the-grand-budapest-hotel/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/05/01121042/eWdyYQreja6JGCzqHWXpWHDrrPo.jpg
 Brattle,The Grand Budapest Hotel,05-18,"9:15 PM
 ",https://brattlefilm.org/movies/the-grand-budapest-hotel/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/05/01121042/eWdyYQreja6JGCzqHWXpWHDrrPo.jpg
 Brattle,Moonrise Kingdom,05-18,"7:00 PM
