@@ -1,7 +1,4 @@
 theater,title,date,time,link,poster
-Brattle,The Automat,06-07,6:00 PM,https://brattlefilm.org/movies/the-automat/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/05/04120706/aXi1UBAoOkbxZQcARrXwFLGuA4q-scaled.jpg
-Brattle,Easy Living,06-07,"8:00 PM
-",https://brattlefilm.org/movies/easy-living/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/05/17141723/jAiagfGw23B79vmgHmNTKL7K7IT-scaled.jpg
 Brattle,Prince: Sign O’ the Times,06-08,"5:00 PM
 ",https://brattlefilm.org/movies/prince-sign-o-the-times/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/05/23113043/4XXEb3lv73QXX7zNdqSYoH5CdCO.jpg
 Brattle,Prince: Sign O’ the Times,06-08,"9:30 PM
@@ -35,6 +32,7 @@ Brattle,Party Girl,06-16,7:00 PM,https://brattlefilm.org/movies/party-girl/,http
 Brattle,The Doom Generation,06-16,9:15 PM,https://brattlefilm.org/movies/the-doom-generation/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/05/04113832/mcISIatRSaP30WZQh1G4ZqLVWQA.jpg
 Brattle,The Shining,06-17,"1:30 PM
 ",https://brattlefilm.org/movies/the-shining/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2022/05/05152719/b6ko0IKC8MdYBBPkkA1aBPLe2yz.jpg
+Brattle,Harvard Book Store presents Ibram X. Kendi,06-21,6:00 PM,https://brattlefilm.org/special_events/harvard-book-store-presents-ibram-x-kendi/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/06/07122642/image6.jpeg
 Brattle,Midsommar,06-21,8:00 PM,https://brattlefilm.org/movies/midsommar/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2022/07/11183055/7LEI8ulZzO5gy9Ww2NVCrKmHeDZ-scaled.jpg
 Brattle,Bicycle Film Festival Presents The Engine Inside,06-22,7:00 PM,https://brattlefilm.org/special_events/bicycle-film-festival-presents-the-engine-inside/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/06/05123943/image.jpeg
 Brattle,Bicycle Film Festival Presents The Engine Inside,06-22,9:00 PM,https://brattlefilm.org/special_events/bicycle-film-festival-presents-the-engine-inside/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/06/05123943/image.jpeg
@@ -60,3 +58,4 @@ Brattle,Snake Eyes,06-28,"8:00 PM
 Brattle,The Revenant,06-29,3:00 PM,https://brattlefilm.org/movies/the-revenant/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/05/04120026/ji3ecJphATlVgWNY0B0RVXZizdf.jpg
 Brattle,The Revenant,06-29,8:00 PM,https://brattlefilm.org/movies/the-revenant/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/05/04120026/ji3ecJphATlVgWNY0B0RVXZizdf.jpg
 Brattle,Ryuichi Sakamoto: Coda,06-29,6:00 PM,https://brattlefilm.org/movies/ryuichi-sakamoto-coda/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/05/04120147/3HoDechba9wJhTUPOZTwxJBkh1Z-scaled.jpg
+Brattle,Harvard Book Store presents Adrienne Brodeur,07-12,6:00 PM,https://brattlefilm.org/special_events/harvard-book-store-presents-adrienne-brodeur/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/06/07122240/hbs-brodeur-book.jpg
