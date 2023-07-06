@@ -1,8 +1,7 @@
 theater,title,date,time,link,poster
-Brattle,The Lost Daughter,07-06,1:45 PM,https://brattlefilm.org/movies/the-lost-daughter/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2022/02/15165212/t1oLNRFixpFOVsyz1HCqCUW3wiW.jpg
-Brattle,The Lost Daughter,07-06,6:30 PM,https://brattlefilm.org/movies/the-lost-daughter/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2022/02/15165212/t1oLNRFixpFOVsyz1HCqCUW3wiW.jpg
 Brattle,Swimming Pool,07-06,4:15 PM,https://brattlefilm.org/movies/swimming-pool/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/06/12162740/bwBAUlEXhUKmegdguoFj9grF9t3.jpg
 Brattle,Swimming Pool,07-06,9:00 PM,https://brattlefilm.org/movies/swimming-pool/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/06/12162740/bwBAUlEXhUKmegdguoFj9grF9t3.jpg
+Brattle,The Lost Daughter,07-06,6:30 PM,https://brattlefilm.org/movies/the-lost-daughter/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2022/02/15165212/t1oLNRFixpFOVsyz1HCqCUW3wiW.jpg
 Brattle,Lynch/Oz,07-07,4:30 PM,https://brattlefilm.org/movies/lynch-oz/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/06/12131744/utMuIiigJPVQZXvpkyGL1mPw9Ib1.jpg
 Brattle,Lynch/Oz,07-08,7:00 PM,https://brattlefilm.org/movies/lynch-oz/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/06/12131744/utMuIiigJPVQZXvpkyGL1mPw9Ib1.jpg
 Brattle,Wild at Heart,07-07,9:30 PM,https://brattlefilm.org/movies/wild-at-heart/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2022/11/07142628/uLUFI5sJIfWrBUWB2Y1dEuyvvVy.jpg
@@ -19,6 +18,7 @@ Brattle,The Adventures of Robin Hood,07-11,"6:15 PM
 Brattle,The Adventures of Robin Hood,07-11,"8:30 PM
 ",https://brattlefilm.org/movies/the-adventures-of-robin-hood/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/06/27135225/c7LX3GMf9uXQTgVm3uxpm7E6Woc-scaled.jpg
 Brattle,Harvard Book Store presents Adrienne Brodeur,07-12,6:00 PM,https://brattlefilm.org/special_events/harvard-book-store-presents-adrienne-brodeur/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/06/07122240/hbs-brodeur-book.jpg
+Brattle,Earth Mama,07-12,8:00 PM,https://brattlefilm.org/movies/earth-mama/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/06/27154517/99EZSkKhE4HPoEnz0N4QX42MwFR-scaled.jpg
 Brattle,Trailer Treats,07-13,"7:00 PM
 ",https://brattlefilm.org/special_events/trailer-treats/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2021/06/23152628/cat-and-film.jpg
 Brattle,De Humani Corporis Fabrica,07-14,"4:30 PM
@@ -57,6 +57,7 @@ Brattle,42nd Street,07-25,"4:00 PM
 ",https://brattlefilm.org/movies/42nd-street/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/06/27141805/bcXT1q4JKqAlCjUadLx0pNGoyJR-scaled.jpg
 Brattle,42nd Street,07-25,"6:00 PM
 ",https://brattlefilm.org/movies/42nd-street/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/06/27141805/bcXT1q4JKqAlCjUadLx0pNGoyJR-scaled.jpg
+Brattle,Problemista,07-25,8:00 PM,https://brattlefilm.org/movies/problemista/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/06/27154735/yiOuLdreveT8Pp5DQ2JQPy5Opu1-scaled.jpg
 Brattle,Bonnie and Clyde,07-26,3:30 PM,https://brattlefilm.org/movies/bonnie-and-clyde/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/06/27141912/sCSQFK9kMsprT4jgWqgw82dT6WI-scaled.jpg
 Brattle,Bonnie and Clyde,07-26,8:30 PM,https://brattlefilm.org/movies/bonnie-and-clyde/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/06/27141912/sCSQFK9kMsprT4jgWqgw82dT6WI-scaled.jpg
 Brattle,The Missouri Breaks,07-26,"6:00 PM
