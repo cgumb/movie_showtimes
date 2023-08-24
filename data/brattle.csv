@@ -1,30 +1,6 @@
 theater,title,date,time,link,poster
-Brattle,Ready or Not,08-17,3:30 PM,https://brattlefilm.org/movies/ready-or-not/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/06/27151644/vOl6shtL0wknjaIs6JdKCpcHvg8-scaled.jpg
-Brattle,Ready or Not,08-17,7:30 PM,https://brattlefilm.org/movies/ready-or-not/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/06/27151644/vOl6shtL0wknjaIs6JdKCpcHvg8-scaled.jpg
-Brattle,Crawl,08-17,5:30 PM,https://brattlefilm.org/movies/crawl/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/06/27151742/mKxpYRIrCZLxZjNqpocJ2RdQW8v-scaled.jpg
-Brattle,Crawl,08-17,9:30 PM,https://brattlefilm.org/movies/crawl/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/06/27151742/mKxpYRIrCZLxZjNqpocJ2RdQW8v-scaled.jpg
-Brattle,Pee-wee’s Big Adventure,08-18,4:00 PM,https://brattlefilm.org/movies/pee-wees-big-adventure/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2022/06/17153957/414IUXc54mrhX88ZUQiRDLXn01i-scaled.jpg
-Brattle,Pee-wee’s Big Adventure,08-19,10:00 PM,https://brattlefilm.org/movies/pee-wees-big-adventure/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2022/06/17153957/414IUXc54mrhX88ZUQiRDLXn01i-scaled.jpg
-Brattle,RRR,08-18,6:00 PM,https://brattlefilm.org/movies/rrr/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2022/12/30115212/nEufeZlyAOLqO2brrs0yeF1lgXO-scaled.jpg
-Brattle,Shiva Baby,08-19,10:00 PM,https://brattlefilm.org/movies/shiva-baby/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2021/12/20123454/5IBJwMPSCS5XdRT7BO1ZMreFOis1.jpg
-Brattle,Yankee Doodle Dandy,08-21,"3:00 PM
-",https://brattlefilm.org/movies/yankee-doodle-dandy/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/06/27152040/cqLLIyJFjLr6jGOxWVEHG11WGzB.jpg
-Brattle,Yankee Doodle Dandy,08-21,"5:30 PM
-",https://brattlefilm.org/movies/yankee-doodle-dandy/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/06/27152040/cqLLIyJFjLr6jGOxWVEHG11WGzB.jpg
-Brattle,Yankee Doodle Dandy,08-21,"8:00 PM
-",https://brattlefilm.org/movies/yankee-doodle-dandy/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/06/27152040/cqLLIyJFjLr6jGOxWVEHG11WGzB.jpg
-Brattle,Arsenic and Old Lace,08-22,"3:30 PM
-",https://brattlefilm.org/movies/arsenic-and-old-lace/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/06/27152228/xG1GEEQGgExKl0WT5sRo1Arst5D.jpg
-Brattle,Arsenic and Old Lace,08-22,"8:30 PM
-",https://brattlefilm.org/movies/arsenic-and-old-lace/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/06/27152228/xG1GEEQGgExKl0WT5sRo1Arst5D.jpg
-Brattle,The Man Who Came to Dinner,08-22,"6:00 PM
-",https://brattlefilm.org/movies/the-man-who-came-to-dinner/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/06/27152122/3k6KVD9RKADkfFzHLE4ho9yWumO.jpg
-Brattle,Night Moves,08-23,"4:15 PM
-",https://brattlefilm.org/movies/night-moves/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/06/27152612/o6ZYabmfGPiuyTyUEXDsZOq90mR.jpg
 Brattle,Night Moves,08-23,"9:00 PM
 ",https://brattlefilm.org/movies/night-moves/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/06/27152612/o6ZYabmfGPiuyTyUEXDsZOq90mR.jpg
-Brattle,Mike’s Murder,08-23,"6:30 PM
-",https://brattlefilm.org/movies/mikes-murder/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/06/27152516/yP1HylWLrgfMs0d6Vdcs9hEHazy.jpg
 Brattle,Malignant,08-24,4:30 PM,https://brattlefilm.org/movies/malignant/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/06/27152826/dGv2BWjzwAz6LB8a8JeRIZL8hSz-scaled.jpg
 Brattle,Malignant,08-24,9:15 PM,https://brattlefilm.org/movies/malignant/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/06/27152826/dGv2BWjzwAz6LB8a8JeRIZL8hSz-scaled.jpg
 Brattle,Barbarian,08-24,7:00 PM,https://brattlefilm.org/movies/barbarian/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/06/27152718/idT5mnqPcJgSkvpDX7pJffBzdVH-scaled.jpg
@@ -44,6 +20,78 @@ Brattle,The Addams Family,08-30,"9:00 PM
 Brattle,Upgrade,08-31,4:45 PM,https://brattlefilm.org/movies/upgrade/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/06/27154207/5f28TXtvHioXirX2n1XH8EJ314v-scaled.jpg
 Brattle,Upgrade,08-31,9:15 PM,https://brattlefilm.org/movies/upgrade/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/06/27154207/5f28TXtvHioXirX2n1XH8EJ314v-scaled.jpg
 Brattle,M3GAN,08-31,7:00 PM,https://brattlefilm.org/movies/m3gan/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/06/27154038/d9nBoowhjiiYc4FBNtQkPY7c11H-scaled.jpg
+Brattle,The Truman Show,09-01,4:45 PM,https://brattlefilm.org/movies/the-truman-show/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/08/15115111/vuza0WqY239yBXOadKlGwJsZJFE.jpg
+Brattle,The Truman Show,09-01,7:00 PM,https://brattlefilm.org/movies/the-truman-show/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/08/15115111/vuza0WqY239yBXOadKlGwJsZJFE.jpg
+Brattle,Josie and the Pussycats,09-01,"9:15 PM
+",https://brattlefilm.org/movies/josie-and-the-pussycats/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/08/15115338/mHOix87RdBO3YQuyvFFZAZxpt5P.jpg
+Brattle,The Umbrellas of Cherbourg,09-02,2:15 PM,https://brattlefilm.org/movies/the-umbrellas-of-cherbourg/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/08/15115539/jgB88XoKb3uOPPvGKNuE9wuaxDE-scaled.jpg
+Brattle,The Umbrellas of Cherbourg,09-07,7:00 PM,https://brattlefilm.org/movies/the-umbrellas-of-cherbourg/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/08/15115539/jgB88XoKb3uOPPvGKNuE9wuaxDE-scaled.jpg
+Brattle,The Young Girls of Rochefort,09-02,4:15 PM,https://brattlefilm.org/movies/the-young-girls-of-rochefort/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/08/15115752/jtxhyGaYhurH6KsjvP1jV3dDypz.jpg
+Brattle,The Young Girls of Rochefort,09-02,9:00 PM,https://brattlefilm.org/movies/the-young-girls-of-rochefort/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/08/15115752/jtxhyGaYhurH6KsjvP1jV3dDypz.jpg
+Brattle,An American in Paris,09-03,"12:00 PM
+",https://brattlefilm.org/movies/an-american-in-paris/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/08/15115926/lyDXkvG53ldz6Cf7dbjJl7TaoP5.jpg
+Brattle,An American in Paris,09-03,"5:00 PM
+",https://brattlefilm.org/movies/an-american-in-paris/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/08/15115926/lyDXkvG53ldz6Cf7dbjJl7TaoP5.jpg
+Brattle,The Philadelphia Story,09-03,2:30 PM,https://brattlefilm.org/movies/the-philadelphia-story/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2021/12/20124108/o4cYWubhrBFF56IyEyce89lMb5y.jpg
+Brattle,The Philadelphia Story,09-03,7:30 PM,https://brattlefilm.org/movies/the-philadelphia-story/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2021/12/20124108/o4cYWubhrBFF56IyEyce89lMb5y.jpg
+Brattle,A Matter of Life and Death,09-04,1:00 PM,https://brattlefilm.org/movies/a-matter-of-life-and-death/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/08/15120447/H74LWKnhOeIFSk9gNjBcPjIov3.jpg
+Brattle,A Matter of Life and Death,09-04,6:00 PM,https://brattlefilm.org/movies/a-matter-of-life-and-death/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/08/15120447/H74LWKnhOeIFSk9gNjBcPjIov3.jpg
+Brattle,All That Jazz,09-04,3:15 PM,https://brattlefilm.org/movies/all-that-jazz/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/08/15120548/meLHG7ZMan8WKVmF5tCTy4B0Hjg.jpg
+Brattle,All That Jazz,09-04,8:15 PM,https://brattlefilm.org/movies/all-that-jazz/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/08/15120548/meLHG7ZMan8WKVmF5tCTy4B0Hjg.jpg
+Brattle,PlayTime,09-05,"4:00 PM
+",https://brattlefilm.org/movies/playtime/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/08/15124412/np9R8uUI1q1bWKnNMm3Bvq6u0Sz.jpg
+Brattle,PlayTime,09-05,"6:30 PM
+",https://brattlefilm.org/movies/playtime/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/08/15124412/np9R8uUI1q1bWKnNMm3Bvq6u0Sz.jpg
+Brattle,The Science of Sleep,09-05,"9:00 PM
+",https://brattlefilm.org/movies/the-science-of-sleep/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/08/15125309/1qCq228LsNtUseCnNE7Naw6NBUz1.jpg
+Brattle,Wings of Desire,09-06,"4:00 PM
+",https://brattlefilm.org/movies/wings-of-desire/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2022/11/08125536/iZQs2vUeCzvS1KfZJ6uYNCGJBBV-scaled.jpg
+Brattle,Wings of Desire,09-06,"6:45 PM
+",https://brattlefilm.org/movies/wings-of-desire/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2022/11/08125536/iZQs2vUeCzvS1KfZJ6uYNCGJBBV-scaled.jpg
+Brattle,Frances Ha,09-06,"9:30 PM
+",https://brattlefilm.org/movies/frances-ha/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/08/15125442/jrq1NoKvsxWCcffVOjegiYwloFN-scaled.jpg
+Brattle,Women on the Verge of a Nervous Breakdown,09-07,"5:00 PM
+",https://brattlefilm.org/movies/women-on-the-verge-of-a-nervous-breakdown/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/08/15125538/97ZxlVHtMNQcoTFaxlcz09A3dcP.jpg
+Brattle,Women on the Verge of a Nervous Breakdown,09-07,"9:00 PM
+",https://brattlefilm.org/movies/women-on-the-verge-of-a-nervous-breakdown/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/08/15125538/97ZxlVHtMNQcoTFaxlcz09A3dcP.jpg
+Brattle,Eustache Shorts Program #1,09-08,4:00 PM,https://brattlefilm.org/special_events/eustache-shorts-program-1/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/08/23172334/Eustache_Poster_Janus_web_original-scaled.jpg
+Brattle,The Mother and the Whore,09-08,6:00 PM,https://brattlefilm.org/movies/the-mother-and-the-whore/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/08/15150423/yAZIYAq75aqIHc8hxG33TaMszTH.jpg
+Brattle,My Little Loves,09-09,4:30 PM,https://brattlefilm.org/movies/my-little-loves/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/08/15150908/nueQTPSsCorjhKYavTuUDCruhGG-scaled.jpg
+Brattle,Eustache Shorts Program #2,09-10,4:30 PM,https://brattlefilm.org/special_events/eustache-shorts-program-2/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/08/23172334/Eustache_Poster_Janus_web_original-scaled.jpg
+Brattle,Eustache Shorts Program #3,09-12,4:00 PM,https://brattlefilm.org/special_events/eustache-shorts-program-3/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/08/23172334/Eustache_Poster_Janus_web_original-scaled.jpg
+Brattle,Eustache Shorts Program #3,09-12,8:15 PM,https://brattlefilm.org/special_events/eustache-shorts-program-3/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/08/23172334/Eustache_Poster_Janus_web_original-scaled.jpg
+Brattle,Numéro zéro,09-12,6:00 PM,https://brattlefilm.org/movies/numero-zero/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/08/15151449/8vv2kkZZ4ujMJV8BdHhm7MAtcqo.jpg
+Brattle,The Virgin of Pessac ’68 and ’79,09-13,5:15 PM,https://brattlefilm.org/movies/the-virgin-of-pessac-68-and-79/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/08/23172334/Eustache_Poster_Janus_web_original-scaled.jpg
+Brattle,The Virgin of Pessac ’68 and ’79,09-13,8:00 PM,https://brattlefilm.org/movies/the-virgin-of-pessac-68-and-79/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/08/23172334/Eustache_Poster_Janus_web_original-scaled.jpg
 Brattle,Harvard Book Store presents Drew Gilpin Faust,09-14,6:00 PM,https://brattlefilm.org/special_events/harvard-book-store-presents-drew-gilpin-faust/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/08/03132149/hbs-faust-book-scaled.jpg
+Brattle,Ariel Phenomenon,09-14,8:00 PM,https://brattlefilm.org/movies/ariel-phenomenon/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/08/17141958/n4mFDS8AAQ3KAzglxMUwMIwNUTr-scaled.jpg
+Brattle,Scrapper,09-15,5:00 PM,https://brattlefilm.org/movies/scrapper/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/08/15125738/fezRPcjrd4whodnVVcFRCgDpK11-scaled.jpg
+Brattle,Scrapper,09-16,7:00 PM,https://brattlefilm.org/movies/scrapper/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/08/15125738/fezRPcjrd4whodnVVcFRCgDpK11-scaled.jpg
+Brattle,The Elephant 6 Recording Co.,09-15,9:00 PM,https://brattlefilm.org/movies/the-elephant-6-recording-co/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/08/15125920/2pFwveOV1BEKwGfa37RgrFze7ut-scaled.jpg
+Brattle,Keeping Secrets Will Destroy You,09-17,8:30 PM,https://brattlefilm.org/movies/keeping-secrets-will-destroy-you/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/08/17123242/Film-Will-Oldham-scaled-1.png
+Brattle,Irma Vep,09-20,7:00 PM,https://brattlefilm.org/movies/irma-vep/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/08/15150034/9Z84G7mn8eS7WxiHr5CrXRrneaF.jpg
+Brattle,Days of Being Wild,09-20,9:15 PM,https://brattlefilm.org/movies/days-of-being-wild/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2021/11/01152101/acfLUO8E61u0ooWS6htbzTHDBcI.jpg
+Brattle,A View to a Kill,09-22,"6:00 PM
+",https://brattlefilm.org/movies/a-view-to-a-kill/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/08/15152423/arJF829RP9cYvh0NU70dC5TtXSa.jpg
+Brattle,A View to a Kill,09-22,"8:45 PM
+",https://brattlefilm.org/movies/a-view-to-a-kill/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/08/15152423/arJF829RP9cYvh0NU70dC5TtXSa.jpg
+Brattle,The Milagro Beanfield War,09-23,"12:00 PM
+",https://brattlefilm.org/movies/the-milagro-beanfield-war/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/08/15152914/rVLZuiNfKua7C2x3rGUiAR8wGEc.jpg
+Brattle,Brainstorm,09-23,2:30 PM,https://brattlefilm.org/movies/brainstorm/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/08/15152610/aulgB01Rad4XMksmJ7EZYgO981n.jpg
+Brattle,Brainstorm,09-23,7:00 PM,https://brattlefilm.org/movies/brainstorm/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/08/15152610/aulgB01Rad4XMksmJ7EZYgO981n.jpg
+Brattle,The Dead Zone,09-23,4:45 PM,https://brattlefilm.org/movies/the-dead-zone/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/08/15152758/9yTVaeS8eIkOpbwIycVFm7EQrgF.jpg
+Brattle,The Dead Zone,09-23,9:15 PM,https://brattlefilm.org/movies/the-dead-zone/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/08/15152758/9yTVaeS8eIkOpbwIycVFm7EQrgF.jpg
+Brattle,Heaven’s Gate,09-24,12:00 PM,https://brattlefilm.org/movies/heavens-gate/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/08/15153046/kW4Vk31nhtKPKGuYMaVATq3wcHC.jpg
+Brattle,Heaven’s Gate,09-24,6:45 PM,https://brattlefilm.org/movies/heavens-gate/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/08/15153046/kW4Vk31nhtKPKGuYMaVATq3wcHC.jpg
+Brattle,Communion,09-25,9:00 PM,https://brattlefilm.org/movies/communion/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/08/15153322/5WsMyE6wwY2QbM3fpAePOX3e7pZ-scaled.jpg
+Brattle,Pennies from Heaven,09-26,"4:00 PM
+",https://brattlefilm.org/movies/pennies-from-heaven/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/08/15153419/7dlangnB2vOcviHEwWy1IRGHLtk-scaled.jpg
+Brattle,Pennies from Heaven,09-26,"6:30 PM
+",https://brattlefilm.org/movies/pennies-from-heaven/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/08/15153419/7dlangnB2vOcviHEwWy1IRGHLtk-scaled.jpg
+Brattle,At Close Range,09-27,"4:00 PM
+",https://brattlefilm.org/movies/at-close-range/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/08/15153527/psovrxpKpIc7WRZw2hfvVBrJLOa.jpg
+Brattle,At Close Range,09-27,"9:00 PM
+",https://brattlefilm.org/movies/at-close-range/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/08/15153527/psovrxpKpIc7WRZw2hfvVBrJLOa.jpg
+Brattle,RPM Fest Presents RPM23 Solo Artist: Vincent Grenier,09-27,7:00 PM,https://brattlefilm.org/special_events/rpm-fest-presents-rpm23-solo-artist-vincent-grenier/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2022/08/08161445/rpm-fest-filmbot-poster-1-copy.jpg
 Brattle,Harvard Book Store presents Ross Gay,09-29,6:00 PM,https://brattlefilm.org/special_events/harvard-book-store-presents-ross-gay/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/08/03132228/hbs-gay-book-copy.jpg
 Brattle,Harvard Book Store presents Roz Chast,10-26,6:00 PM,https://brattlefilm.org/special_events/harvard-book-store-presents-roz-chast/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/08/03132032/hbs-chast-book.jpg
