@@ -1,6 +1,4 @@
 theater,title,date,time,link,poster
-Brattle,Princess Mononoke,10-24,5:00 PM,https://brattlefilm.org/movies/princess-mononoke/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2022/04/29142927/pdtzEreKvKAlqa2YEBaGwiA45V8-scaled.jpg
-Brattle,Princess Mononoke,10-24,8:00 PM,https://brattlefilm.org/movies/princess-mononoke/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2022/04/29142927/pdtzEreKvKAlqa2YEBaGwiA45V8-scaled.jpg
 Brattle,Harvard Book Store presents Roz Chast,10-26,6:00 PM,https://brattlefilm.org/special_events/harvard-book-store-presents-roz-chast/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/08/03132032/hbs-chast-book.jpg
 Brattle,Aftershock,10-26,8:00 PM,https://brattlefilm.org/movies/aftershock/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/08/17134045/8PxKajRULSTqOkA1X6QPLo04nkj.jpg
 Brattle,Sorry/Not Sorry,10-27,6:30 PM,https://brattlefilm.org/movies/sorry-not-sorry/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/09/05120128/poster-sorry1.jpg
@@ -36,6 +34,7 @@ Brattle,Them!,11-11,"2:00 PM
 Brattle,I Was a Communist for the FBI,11-11,"4:15 PM
 ",https://brattlefilm.org/movies/i-was-a-communist-for-the-fbi/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/10/18131745/fC8JWi0Sp13O5VDukp8wf5lcxa4.jpg
 Brattle,A Streetcar Named Desire,11-11,6:30 PM,https://brattlefilm.org/movies/a-streetcar-named-desire/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/10/18131900/aicdlO5vt7z2ARm279eGzJeYCLQ.jpg
+Brattle,The Case Of The Vanishing Gods,11-11,9:15 PM,https://brattlefilm.org/movies/the-case-of-the-vanishing-gods/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/10/20121756/SPtQ1GY59Nn8wETFuQNMCqssRR-scaled.jpg
 Brattle,Calamity Jane,11-12,2:30 PM,https://brattlefilm.org/movies/calamity-jane/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/10/18132034/bYeTi8t6Gtbck861Pm9XtE3BdpS.jpg
 Brattle,The Bad Seed,11-12,"4:45 PM
 ",https://brattlefilm.org/movies/the-bad-seed/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/10/18132133/iAgSkpZslQ2s3onL9TaHbyWygtC.jpg
@@ -44,8 +43,20 @@ Brattle,Auntie Mame,11-14,"4:00 PM
 ",https://brattlefilm.org/movies/auntie-mame/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/10/18132338/uH810rwkYEbUaV6IlwTaAExbXUm.jpg
 Brattle,Auntie Mame,11-14,"7:00 PM
 ",https://brattlefilm.org/movies/auntie-mame/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/10/18132338/uH810rwkYEbUaV6IlwTaAExbXUm.jpg
+Brattle,Literary Death Match,11-15,7:00 PM,https://brattlefilm.org/special_events/literary-death-match/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/10/20124252/ldm-filmbot-poster-1-copy.jpg
 Brattle,Ocean’s 11,11-16,"8:30 PM
 ",https://brattlefilm.org/movies/oceans-eleven/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/10/18132435/A4R6u7SidBPVXMVzGSysCiRGTRz.jpg
+Brattle,The Aggressives,11-17,7:00 PM,https://brattlefilm.org/movies/the-aggressives/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/10/23123126/zBtuGaHgfipnOTQJbTz4qcVtKy1.jpg
+Brattle,Beyond the Aggressives: 25 Years Later,11-17,9:00 PM,https://brattlefilm.org/movies/beyond-the-aggressives-25-years-later/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/10/24124941/beyond-the-aggressives-poster-1.jpeg
+Brattle,Shorts Program: Reel Queer Lives,11-18,1:00 PM,https://brattlefilm.org/special_events/shorts-program-reel-queer-lives/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/03/22130910/wicked-queer-filmbot-poster-1-copy.jpg
+Brattle,Who I Am Not,11-18,4:00 PM,https://brattlefilm.org/movies/who-i-am-not/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/10/23124451/vAiwDOEDjZ2y3FPDxlj5UfGXduj-scaled.jpg
+Brattle,Donna,11-18,6:30 PM,https://brattlefilm.org/movies/donna/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/10/23124637/8bT6iJzaDyc33WE23uUQFPj3WEF.jpg
+Brattle,Raw! Uncut! Video!,11-18,8:30 PM,https://brattlefilm.org/movies/raw-uncut-video/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/10/23124757/d0ARO2mdNxJ16w63o8Jbgmq1of6.jpg
+Brattle,Truth Be Told,11-19,2:00 PM,https://brattlefilm.org/movies/truth-be-told/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/10/23125053/roIeo4nlzxUjTAScTYxSOhhHYZh.jpg
+Brattle,AKOE/AMFI: The Story of a Revolution (*Just to sleep on their chest…),11-19,5:00 PM,https://brattlefilm.org/movies/akoe-amfi-the-story-of-a-revolution-just-to-sleep-on-their-chest/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/10/23125243/vY3SUZ1nK6qqfX20NAoibsWC70q.jpg
+Brattle,A Big Gay Hairy Hit! Where the Bears Are: The Documentary,11-19,7:00 PM,https://brattlefilm.org/movies/a-big-gay-hairy-hit-where-the-bears-are-the-documentary/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/10/23125424/g6VRpkGbbSm8i8rYdYJ1YfwvrC1.jpg
+Brattle,"Orlando, My Political Biography (WQ Docs)",11-20,7:00 PM,https://brattlefilm.org/movies/orlando-my-political-biography-wq-docs/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/10/23130952/r1yRb66jNpZKX8XZovP0xvj3VAo-scaled.jpg
+Brattle,Break the Game,11-20,9:00 PM,https://brattlefilm.org/movies/break-the-game/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/10/23132203/8DAXsxoMC3iDkYghaLIcwBLgKyL.jpg
 Brattle,Gridlock’d,11-21,7:00 PM,https://brattlefilm.org/movies/gridlockd/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/10/18132641/jlOL8fLsG0tGBtkj9qzHgqcHPVV.jpg
 Brattle,Juice,11-21,9:00 PM,https://brattlefilm.org/movies/juice/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/10/18132728/fLOB1MdIf2jWexxOzq441lNTIpW.jpg
 Brattle,Poetic Justice,11-22,8:30 PM,https://brattlefilm.org/movies/poetic-justice/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/10/18132832/6jE7Vzh3edBQtbbDcF4AC5gMX2g.jpg
