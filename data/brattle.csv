@@ -1,7 +1,6 @@
 theater,title,date,time,link,poster
-Brattle,Farewell My Concubine,11-05,11:00 AM,https://brattlefilm.org/movies/farewell-my-concubine/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/10/02172916/farewell-my-concubine-poster-1.jpg
-Brattle,Farewell My Concubine,11-06,2:30 PM,https://brattlefilm.org/movies/farewell-my-concubine/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/10/02172916/farewell-my-concubine-poster-1.jpg
-Brattle,Farewell My Concubine,11-08,6:00 PM,https://brattlefilm.org/movies/farewell-my-concubine/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/10/02172916/farewell-my-concubine-poster-1.jpg
+Brattle,Farewell My Concubine,11-05,2:30 PM,https://brattlefilm.org/movies/farewell-my-concubine/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/10/02172916/farewell-my-concubine-poster-1.jpg
+Brattle,Farewell My Concubine,11-06,6:00 PM,https://brattlefilm.org/movies/farewell-my-concubine/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/10/02172916/farewell-my-concubine-poster-1.jpg
 Brattle,Where the Devil Roams,11-05,9:30 PM,https://brattlefilm.org/movies/where-the-devil-roams/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/10/02173133/33l2Y1zQuqTsFIZ8bfegsiuG51T.jpg
 Brattle,Harvard Book Store Presents Tracy K. Smith,11-07,6:00 PM,https://brattlefilm.org/special_events/harvard-book-store-presents-tracy-k-smith/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/10/24160945/hbs-smith-book.jpeg
 Brattle,RPM Festival Presents: Movement Exercises Trilogy by Sarah Friedland,11-07,8:00 PM,https://brattlefilm.org/special_events/rpm-festival-presents-movement-exercises-trilogy-by-sarah-friedland/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/10/26121546/rpmfest-poster-web-1-copy.jpg
@@ -10,7 +9,7 @@ Brattle,Resistance: They Fought Back,11-09,6:30 PM,https://brattlefilm.org/movie
 Brattle,I Like Movies,11-09,9:00 PM,https://brattlefilm.org/movies/i-like-movies/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/10/23110630/8Gu30dMoeLhz7fulx1uohyIOlqT.jpg
 Brattle,The Wrong Man*,11-10,6:00 PM,https://brattlefilm.org/movies/the-wrong-man/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/10/18131307/pO5XR2R56RAbVjdks9gGGn0fbOa.jpg
 Brattle,The Found Footage Festival Vol. 10: Popcorn Classics,11-10,9:00 PM,https://brattlefilm.org/special_events/found-footage-fest-volume-10-popcorn-classics/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/09/13141824/FoundFootageFest_VOL10_72dpi.jpg
-Brattle,Looney Tunes Program*,11-11,"12:00 PM
+Brattle,Looney Tunes Program,11-11,"12:00 PM
 ",https://brattlefilm.org/special_events/looney-tunes-program/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/10/25123622/knighty-knight-bugs-poster-1-imdb.jpg
 Brattle,Them!*,11-11,"2:00 PM
 ",https://brattlefilm.org/movies/them/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/10/18131521/tP352STF6BvSROi8K3CMM799TVo.jpg
