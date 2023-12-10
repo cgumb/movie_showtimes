@@ -1,11 +1,5 @@
 theater,title,date,time,link,poster
-Brattle,Fantastic Mr. Fox,12-09,"2:00 PM
-",https://brattlefilm.org/movies/fantastic-mr-fox/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/05/01120822/jGhVauMEznd1R0yI6CYG9PONA9D.jpg
-Brattle,"Orlando, My Political Biography",12-09,"4:30 PM
-",https://brattlefilm.org/movies/orlando-my-political-biography/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/10/18154429/dsEsYLBgo9pIumB3kgToDWuOg7x-scaled.jpg
-Brattle,"Orlando, My Political Biography",12-10,"7:00 PM
-",https://brattlefilm.org/movies/orlando-my-political-biography/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/10/18154429/dsEsYLBgo9pIumB3kgToDWuOg7x-scaled.jpg
-Brattle,"Orlando, My Political Biography",12-11,"9:15 PM
+Brattle,"Orlando, My Political Biography",12-09,"9:15 PM
 ",https://brattlefilm.org/movies/orlando-my-political-biography/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/10/18154429/dsEsYLBgo9pIumB3kgToDWuOg7x-scaled.jpg
 Brattle,The Witches,12-10,12:15 PM,https://brattlefilm.org/movies/the-witches/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2021/08/16151923/mPYBjVkeHakkPGY7WaKyyNU4RWm-scaled.jpg
 Brattle,Matilda,12-10,2:15 PM,https://brattlefilm.org/movies/matilda/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/10/18153719/wYoDpWInsBEVSmWStnRH06ddoyk.jpg
