@@ -1,10 +1,6 @@
 theater,title,date,time,link,poster
-Brattle,Private Benjamin,12-27,"4:15 PM
-",https://brattlefilm.org/movies/private-benjamin/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/10/18160434/maIiPNXddZXKHQCi0HyULd5kces.jpg
 Brattle,Private Benjamin,12-27,"8:30 PM
 ",https://brattlefilm.org/movies/private-benjamin/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/10/18160434/maIiPNXddZXKHQCi0HyULd5kces.jpg
-Brattle,Crossing Delancey,12-27,"6:30 PM
-",https://brattlefilm.org/movies/crossing-delancey/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/10/25144341/image3.jpeg
 Brattle,Beetlejuice,12-28,5:00 PM,https://brattlefilm.org/movies/beetlejuice/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/10/18160625/nnl6OWkyPpuMm595hmAxNW3rZFn-scaled.jpg
 Brattle,Beetlejuice,12-28,7:00 PM,https://brattlefilm.org/movies/beetlejuice/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/10/18160625/nnl6OWkyPpuMm595hmAxNW3rZFn-scaled.jpg
 Brattle,Beetlejuice,12-28,9:00 PM,https://brattlefilm.org/movies/beetlejuice/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/10/18160625/nnl6OWkyPpuMm595hmAxNW3rZFn-scaled.jpg
@@ -70,3 +66,5 @@ Brattle,Cemetery Man,01-12,9:00 PM,https://brattlefilm.org/movies/cemetery-man/,
 Brattle,Young Soul Rebels,01-14,5:30 PM,https://brattlefilm.org/movies/young-soul-rebels/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/12/21111615/3mYxQKkZnKf1sFkPylRO4iDDL6J.jpg
 Brattle,Young Soul Rebels,01-15,8:00 PM,https://brattlefilm.org/movies/young-soul-rebels/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/12/21111615/3mYxQKkZnKf1sFkPylRO4iDDL6J.jpg
 Brattle,Assault on Precinct 13,01-16,6:30 PM,https://brattlefilm.org/movies/assault-on-precinct-13/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/12/21111734/vAGq6oo8ycKciWksoPDq0Ak4jbj.jpg
+Brattle,Harvard Book Store Presents Dr. Uché Blackstock,01-25,6:00 PM,https://brattlefilm.org/special_events/harvard-book-store-presents-dr-uche-blackstock/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/12/26125456/hbs-blackstock-book.jpg
+Brattle,Harvard Book Store Presents Dr. Jen Gunter,02-02,6:00 PM,https://brattlefilm.org/special_events/harvard-book-store-presents-dr-jen-gunter/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/12/26130323/hbs-gunter-book.jpg
