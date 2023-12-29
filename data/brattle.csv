@@ -1,6 +1,4 @@
 theater,title,date,time,link,poster
-Brattle,Beetlejuice,12-28,5:00 PM,https://brattlefilm.org/movies/beetlejuice/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/10/18160625/nnl6OWkyPpuMm595hmAxNW3rZFn-scaled.jpg
-Brattle,Beetlejuice,12-28,7:00 PM,https://brattlefilm.org/movies/beetlejuice/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/10/18160625/nnl6OWkyPpuMm595hmAxNW3rZFn-scaled.jpg
 Brattle,Beetlejuice,12-28,9:00 PM,https://brattlefilm.org/movies/beetlejuice/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/10/18160625/nnl6OWkyPpuMm595hmAxNW3rZFn-scaled.jpg
 Brattle,Under the Cherry Moon,12-29,"4:45 PM
 ",https://brattlefilm.org/movies/under-the-cherry-moon/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/10/18160914/82EvqDBW6CCQLt0hRyOQ7UI3ua3.jpg
@@ -39,9 +37,11 @@ Brattle,After Hours,01-04,"9:00 PM
 ",https://brattlefilm.org/movies/after-hours/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/10/18162455/eamOBurHBu0MIxohTIVcfxmZ6Z7.jpg
 Brattle,GoodFellas,01-04,"6:00 PM
 ",https://brattlefilm.org/movies/goodfellas/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/10/18162629/aKuFiU82s5ISJpGZp7YkIr3kCUd.jpg
-Brattle,Household Saints,01-05,6:15 PM,https://brattlefilm.org/movies/household-saints/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/12/20111652/household-saints-poster-rerelease-1.jpg
+Brattle,Household Saints,01-05,"6:15 PM
+",https://brattlefilm.org/movies/household-saints/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/12/20111652/household-saints-poster-rerelease-1.jpg
 Brattle,Videodrome,01-05,9:30 PM,https://brattlefilm.org/movies/videodrome/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/12/21104224/qqqkiZSU9EBGZ1KiDmfn07S7qvv.jpg
-Brattle,The Many Miracles of Household Saints,01-06,2:45 PM,https://brattlefilm.org/movies/the-many-miracles-of-household-saints/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/12/21145318/MMHHS_poster.jpg
+Brattle,The Many Miracles of Household Saints,01-06,"2:45 PM
+",https://brattlefilm.org/showtimes/the-many-miracles-of-household-saints-1-6-24-245-pm/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/12/21145318/MMHHS_poster.jpg
 Brattle,Suzhou River,01-07,3:00 PM,https://brattlefilm.org/movies/suzhou-river/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/12/21105010/npmg7vTFvmFmxZsiThHFwWE86hA-scaled.jpg
 Brattle,Suzhou River,01-07,8:30 PM,https://brattlefilm.org/movies/suzhou-river/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/12/21105010/npmg7vTFvmFmxZsiThHFwWE86hA-scaled.jpg
 Brattle,Farewell My Concubine,01-07,5:00 PM,https://brattlefilm.org/movies/farewell-my-concubine/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/10/02172916/farewell-my-concubine-poster-1.jpg
