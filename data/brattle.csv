@@ -1,8 +1,4 @@
 theater,title,date,time,link,poster
-Brattle,Stand and Deliver,01-03,"4:45 PM
-",https://brattlefilm.org/movies/stand-and-deliver/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/10/18162208/A9pfzwk02iNl6i9wyk8lNcBkvc.jpg
-Brattle,Stand and Deliver,01-03,"7:00 PM
-",https://brattlefilm.org/movies/stand-and-deliver/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/10/18162208/A9pfzwk02iNl6i9wyk8lNcBkvc.jpg
 Brattle,Mad Max 2: The Road Warrior,01-03,9:15 PM,https://brattlefilm.org/movies/road-warrior-aka-mad-max-2/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2022/06/27175752/ffzRLeZaKP6YCaTVieWeSLccC4y.jpg
 Brattle,After Hours,01-04,"3:45 PM
 ",https://brattlefilm.org/movies/after-hours/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/10/18162455/eamOBurHBu0MIxohTIVcfxmZ6Z7.jpg
@@ -78,9 +74,10 @@ Brattle,Dungeons & Dragons: Honor Among Thieves,01-27,12:00 PM,https://brattlefi
 Brattle,Asteroid City,01-27,2:45 PM,https://brattlefilm.org/movies/asteroid-city/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/12/21143455/qdq40gRS8xKnpFt5V75t6lUHgpx-scaled.jpg
 Brattle,Asteroid City,01-27,5:00 PM,https://brattlefilm.org/movies/asteroid-city/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/12/21143455/qdq40gRS8xKnpFt5V75t6lUHgpx-scaled.jpg
 Brattle,Asteroid City,01-27,7:15 PM,https://brattlefilm.org/movies/asteroid-city/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/12/21143455/qdq40gRS8xKnpFt5V75t6lUHgpx-scaled.jpg
+Brattle,Stop Making Sense,01-27,10:00 PM,https://brattlefilm.org/movies/stop-making-sense/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/08/15130033/uFMsMsk1NGo0QWs9IHknZVHSe4O.jpg
 Brattle,Scrapper,01-28,12:00 PM,https://brattlefilm.org/movies/scrapper/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/08/15125738/fezRPcjrd4whodnVVcFRCgDpK11-scaled.jpg
 Brattle,Scrapper,01-28,6:30 PM,https://brattlefilm.org/movies/scrapper/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/08/15125738/fezRPcjrd4whodnVVcFRCgDpK11-scaled.jpg
-Brattle,RPM Fest Presents Kelly Sears,01-28,2:00 PM,https://brattlefilm.org/special_events/rpm-fest-presents-kelly-sears/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2022/08/08161445/rpm-fest-filmbot-poster-1-copy.jpg
+Brattle,RPM Fest Presents We Were Given These Instructions: Kelly Sears,01-28,2:00 PM,https://brattlefilm.org/special_events/rpm-fest-presents-kelly-sears/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/12/03160329/rpmfest-poster-1-copy1.jpg
 Brattle,Polite Society,01-28,4:15 PM,https://brattlefilm.org/movies/polite-society/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/12/21143848/lv1WqAo2ulQy9aSOG7ikR44p8RR-scaled.jpg
 Brattle,Polite Society,01-28,8:30 PM,https://brattlefilm.org/movies/polite-society/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/12/21143848/lv1WqAo2ulQy9aSOG7ikR44p8RR-scaled.jpg
 Brattle,How to Blow Up a Pipeline,01-29,9:00 PM,https://brattlefilm.org/movies/how-to-blow-up-a-pipeline/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/03/09134642/5GmeJ1bQ7gL9lxTuJaDs4ODiSXs-scaled.jpg
