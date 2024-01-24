@@ -1,6 +1,4 @@
 theater,title,date,time,link,poster
-Brattle,May December,01-23,4:00 PM,https://brattlefilm.org/movies/may-december/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/12/21142809/yibtHDMO70RueiEmtrcJeTiiHFo.jpg
-Brattle,May December,01-23,6:30 PM,https://brattlefilm.org/movies/may-december/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/12/21142809/yibtHDMO70RueiEmtrcJeTiiHFo.jpg
 Brattle,May December,01-23,9:00 PM,https://brattlefilm.org/movies/may-december/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/12/21142809/yibtHDMO70RueiEmtrcJeTiiHFo.jpg
 Brattle,Earth Mama,01-24,4:30 PM,https://brattlefilm.org/movies/earth-mama/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/06/27154517/99EZSkKhE4HPoEnz0N4QX42MwFR-scaled.jpg
 Brattle,Earth Mama,01-24,9:00 PM,https://brattlefilm.org/movies/earth-mama/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/06/27154517/99EZSkKhE4HPoEnz0N4QX42MwFR-scaled.jpg
@@ -65,7 +63,7 @@ Brattle,"What’s Up, Doc?",02-12,"4:15 PM
 ",https://brattlefilm.org/movies/whats-up-doc/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/12/27120005/d5WwZxneeAH2Kj2SeDV6oUY2oW0.jpg
 Brattle,"What’s Up, Doc?",02-12,"8:45 PM
 ",https://brattlefilm.org/movies/whats-up-doc/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/12/27120005/d5WwZxneeAH2Kj2SeDV6oUY2oW0.jpg
-Brattle,Paper Moon*,02-12,"6:30 PM
+Brattle,Paper Moon,02-12,"6:30 PM
 ",https://brattlefilm.org/movies/paper-moon/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/12/27115913/3GHG0kTcBWHKdXjj3RdK8GjBCd61.jpg
 Brattle,Casablanca,02-13,"4:00 PM
 ",https://brattlefilm.org/movies/casablanca/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2021/05/06221346/9UViITBCKeLYWg8Wblbmb9l25mS1.jpg
