@@ -1,17 +1,58 @@
 theater,title,date,time,link,poster
-Brattle,Casablanca,02-14,"4:00 PM
-",https://brattlefilm.org/movies/casablanca/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2021/05/06221346/9UViITBCKeLYWg8Wblbmb9l25mS1.jpg
-Brattle,The Princess Bride,02-14,"10:00 PM
-",https://brattlefilm.org/movies/the-princess-bride/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2021/12/20124144/dvjqlp2sAhUeFjUOfQDgqwpphHj.jpg
-Brattle,The Bugs Bunny Film Festival,02-16,"5:00 PM
-",https://brattlefilm.org/movies/the-bugs-bunny-film-festival/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2021/12/01135324/bugsbunny-poster-1a.jpg
-Brattle,The Bugs Bunny Film Festival,02-17,"7:00 PM
-",https://brattlefilm.org/movies/the-bugs-bunny-film-festival/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2021/12/01135324/bugsbunny-poster-1a.jpg
-Brattle,The Sweet East,02-16,"9:00 PM
-",https://brattlefilm.org/movies/the-sweet-east/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2024/02/01135820/poster.jpg
-Brattle,Harvard Book Store Presents Leslie Jamison,02-21,6:00 PM,https://brattlefilm.org/special_events/harvard-book-store-presents-leslie-jamison/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2024/01/19110244/hbs-jamison-book-scaled.jpg
-Brattle,Pictures of Ghosts,02-23,6:00 PM,https://brattlefilm.org/movies/pictures-of-ghosts/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/12/22113408/u2fPWFAUj0IojbFzrsvxHeYgfSP.jpg
-Brattle,Pictures of Ghosts,02-24,8:15 PM,https://brattlefilm.org/movies/pictures-of-ghosts/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/12/22113408/u2fPWFAUj0IojbFzrsvxHeYgfSP.jpg
-Brattle,Stop Making Sense,02-24,10:00 PM,https://brattlefilm.org/movies/stop-making-sense/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/08/15130033/uFMsMsk1NGo0QWs9IHknZVHSe4O.jpg
-Brattle,IFFBoston Screening Series: Spaceman,02-27,8:15 PM,https://brattlefilm.org/movies/spaceman/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2024/02/06145929/jDdnDEGu3GiLtJwDXeL4hfFzmGv.jpg
-Brattle,Grrl Haus Cinema,02-28,7:00 PM,https://brattlefilm.org/special_events/grrl-haus-cinema/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2024/01/01120553/Brattle_feb2024-small.jpeg
+Brattle,Four Daughters,03-01,"4:30 PM
+",https://brattlefilm.org/movies/four-daughters/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2024/02/15123425/iSpJ6fg1OOSO30IUkZskZDufVzN.jpg
+Brattle,Four Daughters,03-02,"7:00 PM
+",https://brattlefilm.org/movies/four-daughters/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2024/02/15123425/iSpJ6fg1OOSO30IUkZskZDufVzN.jpg
+Brattle,Predator,03-01,9:30 PM,https://brattlefilm.org/movies/predator/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2024/02/16132645/vQhYhYsOBECkQzvSC3jInKv9CLf.jpg
+Brattle,Moonstruck,03-05,"7:00 PM
+",https://brattlefilm.org/movies/moonstruck/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2024/02/23123727/2mnVWpvsHEHHnfvLn1NXYVvBGl5.jpg
+Brattle,Harvard Book Store Presents Noah Feldman,03-06,6:00 PM,https://brattlefilm.org/special_events/harvard-book-store-presents-noah-feldman/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2024/02/16142952/hbs-feldman-book-scaled.jpg
+Brattle,Not a Pretty Picture,03-08,4:30 PM,https://brattlefilm.org/movies/not-a-pretty-picture/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2024/02/16135713/lk1e0mW61rf4O6csBMH0o0zTT7W-scaled.jpg
+Brattle,Not a Pretty Picture,03-09,6:30 PM,https://brattlefilm.org/movies/not-a-pretty-picture/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2024/02/16135713/lk1e0mW61rf4O6csBMH0o0zTT7W-scaled.jpg
+Brattle,Valley Girl,03-08,"8:30 PM
+",https://brattlefilm.org/movies/valley-girl/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2021/06/17173206/valley_girl.jpeg
+Brattle,Rambling Rose,03-09,"6:30 PM
+",https://brattlefilm.org/movies/rambling-rose/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2024/02/23124919/hAoluBzewlMqRH4mgFJvr4EPOMw.jpg
+Brattle,Real Genius,03-09,9:30 PM,https://brattlefilm.org/movies/real-genius/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2024/02/23125118/5mVimQD1XOMLzbO2Qug0JQxh70S.jpg
+Brattle,It Happened One Night,03-10,2:00 PM,https://brattlefilm.org/movies/it-happened-one-night/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2022/06/17153852/2PNUGWAflH6UUumas0POMmokHlc-scaled.jpg
+Brattle,It Happened One Night,03-10,4:15 PM,https://brattlefilm.org/movies/it-happened-one-night/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2022/06/17153852/2PNUGWAflH6UUumas0POMmokHlc-scaled.jpg
+Brattle,Here Comes Mr. Jordan,03-11,"6:00 PM
+",https://brattlefilm.org/movies/here-comes-mr-jordan/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2024/02/23125850/k6gmIV3hTSCG2JBh2zPMLogZ5y3-scaled.jpg
+Brattle,Born Yesterday,03-11,8:00 PM,https://brattlefilm.org/movies/born-yesterday/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2024/02/23130008/5KWpPOwBm53hs9J8JAscd5WI1jo.jpg
+Brattle,The Last Picture Show,03-12,4:30 PM,https://brattlefilm.org/movies/the-last-picture-show/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2024/02/23130144/7NYePZc0lZrRomtmQsjOJMePTEb-scaled.jpg
+Brattle,The Last Picture Show,03-12,9:15 PM,https://brattlefilm.org/movies/the-last-picture-show/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2024/02/23130144/7NYePZc0lZrRomtmQsjOJMePTEb-scaled.jpg
+Brattle,The Big Chill,03-12,"7:00 PM
+",https://brattlefilm.org/movies/the-big-chill/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2024/02/23130305/rU8kjMEL5Mn0EWm3gOShPHBEZ4l.jpg
+Brattle,Sense and Sensibility,03-13,5:30 PM,https://brattlefilm.org/movies/sense-and-sensibility/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2024/02/23130554/cBK2yL3HqhFvIVd7lLtazWlRZPR.jpg
+Brattle,Little Women,03-13,"8:15 PM
+",https://brattlefilm.org/movies/little-women/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2024/02/23130735/yn5ihODtZ7ofn8pDYfxCmxh8AXI-scaled.jpg
+Brattle,The Social Network,03-14,"4:00 PM
+",https://brattlefilm.org/movies/the-social-network/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2024/02/23130935/n0ybibhJtQ5icDqTp8eRytcIHJx-scaled.jpg
+Brattle,The Social Network,03-14,"6:30 PM
+",https://brattlefilm.org/movies/the-social-network/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2024/02/23130935/n0ybibhJtQ5icDqTp8eRytcIHJx-scaled.jpg
+Brattle,RPM Fest Presents Stephanie Barber,03-14,9:00 PM,https://brattlefilm.org/special_events/rpm-fest-presents-stephanie-barber/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2024/02/27111310/rpmfest-poster-1-copy.jpg
+Brattle,Blackwaters,03-15,5:00 PM,https://brattlefilm.org/special_events/blackwaters/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2024/02/27155341/blackwaters-poster.jpg
+Brattle,After Life,03-15,7:45 PM,https://brattlefilm.org/movies/after-life/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/05/03144504/sm1dCLX7tvQdZFYPRQy4O5p96Pk.jpg
+Brattle,Still Walking,03-16,2:30 PM,https://brattlefilm.org/movies/still-walking/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2024/02/26135327/FWJbhAPdwiwKhUaAyz841jpYa1.jpg
+Brattle,Broker,03-16,6:00 PM,https://brattlefilm.org/movies/broker/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2022/10/20150442/hhoINfy92ufsdsrSeovpQyVrOUD-scaled.jpg
+Brattle,Air Doll,03-16,9:15 PM,https://brattlefilm.org/movies/air-doll/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2024/02/26135930/kLTNYdKFkH5kANF8QnVvLZNeWeN-scaled.jpg
+Brattle,Shoplifters,03-17,12:00 PM,https://brattlefilm.org/movies/shoplifters/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2024/02/26140145/4nfRUOv3LX5zLn98WS1WqVBk9E9.jpg
+Brattle,Shoplifters,03-17,8:00 PM,https://brattlefilm.org/movies/shoplifters/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2024/02/26140145/4nfRUOv3LX5zLn98WS1WqVBk9E9.jpg
+Brattle,Monster,03-17,3:00 PM,https://brattlefilm.org/movies/monster/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/10/06104900/uCxeoP5DKOt5ovEsY4jerxwbcbe.jpg
+Brattle,Harvard Book Store Presents Tricia Rose,03-18,6:00 PM,https://brattlefilm.org/special_events/harvard-book-store-presents-tricia-rose/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2024/02/16142958/hbs-rose-book.jpg
+Brattle,The Peasants,03-25,"3:30 PM
+",https://brattlefilm.org/movies/the-peasants/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2024/02/27202807/vxwdArOG3R5AUHdvmwE4e7MLc0z-scaled.jpg
+Brattle,The Peasants,03-26,"6:00 PM
+",https://brattlefilm.org/movies/the-peasants/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2024/02/27202807/vxwdArOG3R5AUHdvmwE4e7MLc0z-scaled.jpg
+Brattle,The Peasants,03-27,"8:30 PM
+",https://brattlefilm.org/movies/the-peasants/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2024/02/27202807/vxwdArOG3R5AUHdvmwE4e7MLc0z-scaled.jpg
+Brattle,A Woman of Paris: A Drama of Fate,03-28,6:30 PM,https://brattlefilm.org/movies/a-woman-of-paris-a-drama-of-fate/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2024/02/26141251/s24VgyvJliT7fUA909ZHJpoBx1D.jpg
+Brattle,Thelma & Louise,03-28,8:30 PM,https://brattlefilm.org/movies/thelma-louise/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2024/02/26141418/gQSUVGR80RVHxJywtwXm2qa1ebi.jpg
+Brattle,Fists in the Pocket,03-29,7:00 PM,https://brattlefilm.org/movies/fists-in-the-pocket/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2024/02/26141541/tfYKS7V0yILl9B2v7us0dgrBBnv.jpg
+Brattle,The Bird with the Crystal Plumage,03-29,9:30 PM,https://brattlefilm.org/movies/the-bird-with-the-crystal-plumage/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2021/10/29122852/R4kmKsGKvhAQn5xq98zs8JHL8c.jpg
+Brattle,Cinema’s First Nasty Women: Queens of Destruction,03-30,2:00 PM,https://brattlefilm.org/movies/cinemas-first-nasty-women-queens-of-destruction/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2024/02/26150528/cinemas-first-nasty-women-queens-of-destruction-poster-1b.jpg
+Brattle,Caught,03-30,4:30 PM,https://brattlefilm.org/movies/caught/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2024/02/26150857/htMtSPue5zDW79iL67quA6dM4Gz-scaled.jpg
+Brattle,Fear and Desire,03-30,6:30 PM,https://brattlefilm.org/movies/fear-and-desire/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2024/02/26151001/4mD3LNkXayoI0q0qxNH5cXtc0em.jpg
+Brattle,Stop Making Sense,03-30,10:00 PM,https://brattlefilm.org/movies/stop-making-sense/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/08/15130033/uFMsMsk1NGo0QWs9IHknZVHSe4O.jpg
+Brattle,Hyenas,03-31,5:30 PM,https://brattlefilm.org/movies/hyenas/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2024/02/26151815/or2P5W4SHTOYS40F2LifY8wm1e4.jpg
+Brattle,Memories of Underdevelopment,03-31,8:00 PM,https://brattlefilm.org/movies/memories-of-underdevelopment/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2024/02/26152008/av7zEHpOyzmm86VPRa68zOLaBqf.jpg
