@@ -1,6 +1,4 @@
 theater,title,date,time,link,poster
-Brattle,Four Daughters,03-04,"5:00 PM
-",https://brattlefilm.org/movies/four-daughters/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2024/02/15123425/iSpJ6fg1OOSO30IUkZskZDufVzN.jpg
 Brattle,Moonstruck,03-05,"7:00 PM
 ",https://brattlefilm.org/movies/moonstruck/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2024/02/23123727/2mnVWpvsHEHHnfvLn1NXYVvBGl5.jpg
 Brattle,Harvard Book Store Presents Noah Feldman,03-06,6:00 PM,https://brattlefilm.org/special_events/harvard-book-store-presents-noah-feldman/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2024/02/16142952/hbs-feldman-book-scaled.jpg
@@ -29,13 +27,17 @@ Brattle,The Social Network,03-14,"6:30 PM
 ",https://brattlefilm.org/movies/the-social-network/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2024/02/23130935/n0ybibhJtQ5icDqTp8eRytcIHJx-scaled.jpg
 Brattle,RPM Fest Presents Stephanie Barber,03-14,9:00 PM,https://brattlefilm.org/special_events/rpm-fest-presents-stephanie-barber/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2024/02/27111310/rpmfest-poster-1-copy.jpg
 Brattle,Blackwaters,03-15,5:00 PM,https://brattlefilm.org/special_events/blackwaters/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2024/02/27155341/blackwaters-poster.jpg
-Brattle,After Life,03-15,7:45 PM,https://brattlefilm.org/movies/after-life/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/05/03144504/sm1dCLX7tvQdZFYPRQy4O5p96Pk.jpg
-Brattle,Still Walking,03-16,2:30 PM,https://brattlefilm.org/movies/still-walking/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2024/02/26135327/FWJbhAPdwiwKhUaAyz841jpYa1.jpg
-Brattle,Broker,03-16,6:00 PM,https://brattlefilm.org/movies/broker/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2022/10/20150442/hhoINfy92ufsdsrSeovpQyVrOUD-scaled.jpg
+Brattle,After Life,03-15,"7:45 PM
+",https://brattlefilm.org/movies/after-life/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/05/03144504/sm1dCLX7tvQdZFYPRQy4O5p96Pk.jpg
+Brattle,Still Walking,03-16,"2:30 PM
+",https://brattlefilm.org/showtimes/still-walking-3-16-24-230-pm/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2024/02/26135327/FWJbhAPdwiwKhUaAyz841jpYa1.jpg
+Brattle,Broker,03-16,"6:00 PM
+",https://brattlefilm.org/showtimes/broker-3-16-24-600-pm/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2022/10/20150442/hhoINfy92ufsdsrSeovpQyVrOUD-scaled.jpg
 Brattle,Air Doll,03-16,9:15 PM,https://brattlefilm.org/movies/air-doll/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2024/02/26135930/kLTNYdKFkH5kANF8QnVvLZNeWeN-scaled.jpg
 Brattle,Shoplifters,03-17,12:00 PM,https://brattlefilm.org/movies/shoplifters/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2024/02/26140145/4nfRUOv3LX5zLn98WS1WqVBk9E9.jpg
 Brattle,Shoplifters,03-17,8:00 PM,https://brattlefilm.org/movies/shoplifters/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2024/02/26140145/4nfRUOv3LX5zLn98WS1WqVBk9E9.jpg
-Brattle,Monster,03-17,3:00 PM,https://brattlefilm.org/movies/monster/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/10/06104900/uCxeoP5DKOt5ovEsY4jerxwbcbe.jpg
+Brattle,Monster,03-17,"3:00 PM
+",https://brattlefilm.org/showtimes/monster-3-17-24-300-pm/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/10/06104900/uCxeoP5DKOt5ovEsY4jerxwbcbe.jpg
 Brattle,Harvard Book Store Presents Tricia Rose,03-18,6:00 PM,https://brattlefilm.org/special_events/harvard-book-store-presents-tricia-rose/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2024/02/16142958/hbs-rose-book.jpg
 Brattle,The Peasants,03-25,"3:30 PM
 ",https://brattlefilm.org/movies/the-peasants/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2024/02/27202807/vxwdArOG3R5AUHdvmwE4e7MLc0z-scaled.jpg
