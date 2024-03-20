@@ -1,6 +1,4 @@
 theater,title,date,time,link,poster
-Brattle,Messiah of Evil,03-19,5:00 PM,https://brattlefilm.org/movies/messiah-of-evil/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/10/18153022/ysmkuMncUUvMW1QpcNn7yjl2wN1.jpg
-Brattle,Messiah of Evil,03-19,7:00 PM,https://brattlefilm.org/movies/messiah-of-evil/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/10/18153022/ysmkuMncUUvMW1QpcNn7yjl2wN1.jpg
 Brattle,Messiah of Evil,03-19,9:00 PM,https://brattlefilm.org/movies/messiah-of-evil/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/10/18153022/ysmkuMncUUvMW1QpcNn7yjl2wN1.jpg
 Brattle,Immaculate,03-20,7:00 PM,https://brattlefilm.org/movies/immaculate-2/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2024/03/07095131/fdZpvODTX5wwkD0ikZNaClE4AoW-scaled.jpg
 Brattle,Fatal Termination,03-20,9:45 PM,https://brattlefilm.org/movies/fatal-termination/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2024/03/08095025/c6stRKsVwA6SJLaYCAdNncbatQ8.jpg
@@ -11,14 +9,14 @@ Brattle,Femme,03-21,10:15 PM,https://brattlefilm.org/movies/femme/,https://s3.am
 Brattle,The Dunwich Horrors,03-22,5:00 PM,https://brattlefilm.org/special_events/the-dunwich-horrors-shorts-program/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2024/03/08115641/BUFF-poster2024.jpg
 Brattle,Off Ramp,03-22,7:15 PM,https://brattlefilm.org/movies/off-ramp/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2024/03/08121033/off_ramp_poster.jpg
 Brattle,Sleep,03-22,9:45 PM,https://brattlefilm.org/movies/sleep/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2024/03/07095527/b4d90lpmSTLoCP9tkBU7QAQOhh0-scaled.jpg
-Brattle,Trigger Warning,03-22,11:45 PM,https://brattlefilm.org/special_events/trigger-warning-shorts-program/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2024/03/08115641/BUFF-poster2024.jpg
+Brattle,Trigger Warning 2024,03-22,11:45 PM,https://brattlefilm.org/special_events/trigger-warning-shorts-program/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2024/03/08115641/BUFF-poster2024.jpg
 Brattle,Sound + Vision,03-23,12:30 PM,https://brattlefilm.org/special_events/sound-vision-shorts-program/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2024/03/08115641/BUFF-poster2024.jpg
 Brattle,Tiger Stripes,03-23,2:45 PM,https://brattlefilm.org/movies/tiger-stripes/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2024/03/08121637/tiger_stripes_poster.jpg
 Brattle,Friendship Is Magic,03-23,4:45 PM,https://brattlefilm.org/special_events/friendship-is-magic-comedy-shorts/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2024/03/08115641/BUFF-poster2024.jpg
 Brattle,The Becomers,03-23,7:00 PM,https://brattlefilm.org/movies/the-becomers/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2024/03/07095621/taKcNU1p4LwQrqStpfr4cUkIvZY.jpg
 Brattle,In a Violent Nature,03-23,9:30 PM,https://brattlefilm.org/movies/in-a-violent-nature/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2024/03/07095644/o5pcDZaA9Up0X612os34JNCRX6j-scaled.jpg
 Brattle,Infested,03-23,11:30 PM,https://brattlefilm.org/movies/infested/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2024/03/13141341/infested-poster-1.jpg
-Brattle,How You Living,03-24,12:15 PM,https://brattlefilm.org/special_events/how-you-living-shorts-program/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2024/03/08115641/BUFF-poster2024.jpg
+Brattle,How You Living?,03-24,12:15 PM,https://brattlefilm.org/special_events/how-you-living-shorts-program/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2024/03/08115641/BUFF-poster2024.jpg
 Brattle,Sometimes Always,03-24,2:15 PM,https://brattlefilm.org/special_events/sometimes-always-animated-shorts/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2024/03/08115641/BUFF-poster2024.jpg
 Brattle,With Love and a Major Organ,03-24,4:15 PM,https://brattlefilm.org/movies/with-love-and-a-major-organ/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2024/03/08122647/with_love_poster.jpg
 Brattle,Omen,03-24,6:15 PM,https://brattlefilm.org/movies/omen/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2024/03/08123001/omen_poster.jpg
@@ -61,5 +59,12 @@ Brattle,WALL·E,04-21,12:00 PM,https://brattlefilm.org/movies/wall%c2%b7e/,https
 Brattle,Elysium,04-21,2:30 PM,https://brattlefilm.org/movies/elysium/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2024/02/26155555/aRjuJuPXHtVs6YegfeeQWXGRs1E-scaled.jpg
 Brattle,Riddle of Fire,04-25,"7:00 PM
 ",https://brattlefilm.org/movies/riddle-of-fire/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2024/02/26152310/yjBbl4iLk3Zj5erRq4FjlyyTrWu-scaled.jpg
+Brattle,Days of Heaven,04-26,4:45 PM,https://brattlefilm.org/movies/days-of-heaven-2/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2024/02/26152132/siE1XQ544MLO27geLYDbUDy3oTt.jpg
+Brattle,Days of Heaven,04-27,7:00 PM,https://brattlefilm.org/movies/days-of-heaven-2/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2024/02/26152132/siE1XQ544MLO27geLYDbUDy3oTt.jpg
+Brattle,Halloween*,04-28,7:00 PM,https://brattlefilm.org/movies/halloween/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2024/02/26160428/wijlZ3HaYMvlDTPqJoTCWKFkCPU.jpg
+Brattle,Halloween II,04-29,"9:00 PM
+",https://brattlefilm.org/movies/halloween-ii/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2024/02/26160605/gL3dPbbZInWn4U9jd87uoFGOdot.jpg
+Brattle,Halloween III: Season of the Witch,04-30,"8:30 PM
+",https://brattlefilm.org/movies/halloween-iii-season-of-the-witch/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2024/02/26160711/WABfdeaThFYXCySGIOvRNv2sSW.jpg
 Brattle,Harvard Book Store Presents Miranda July,05-15,6:00 PM,https://brattlefilm.org/special_events/harvard-book-store-presents-miranda-july/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2024/03/14110610/hbs-july-book.jpg
 Brattle,Harvard Book Store Presents Erik Larson,05-22,6:00 PM,https://brattlefilm.org/special_events/harvard-book-store-presents-erik-larson/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2024/03/14105831/hbs-larson-book.jpg
