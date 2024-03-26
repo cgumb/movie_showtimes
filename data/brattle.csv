@@ -1,9 +1,5 @@
 theater,title,date,time,link,poster
-Brattle,The Peasants,03-25,"3:30 PM
-",https://brattlefilm.org/movies/the-peasants/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2024/02/27202807/vxwdArOG3R5AUHdvmwE4e7MLc0z-scaled.jpg
-Brattle,The Peasants,03-26,"6:00 PM
-",https://brattlefilm.org/movies/the-peasants/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2024/02/27202807/vxwdArOG3R5AUHdvmwE4e7MLc0z-scaled.jpg
-Brattle,The Peasants,03-27,"8:30 PM
+Brattle,The Peasants,03-25,"8:30 PM
 ",https://brattlefilm.org/movies/the-peasants/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2024/02/27202807/vxwdArOG3R5AUHdvmwE4e7MLc0z-scaled.jpg
 Brattle,A Woman of Paris: A Drama of Fate,03-28,6:30 PM,https://brattlefilm.org/movies/a-woman-of-paris-a-drama-of-fate/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2024/02/26141251/s24VgyvJliT7fUA909ZHJpoBx1D.jpg
 Brattle,Thelma & Louise,03-28,8:30 PM,https://brattlefilm.org/movies/thelma-louise/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2024/02/26141418/gQSUVGR80RVHxJywtwXm2qa1ebi.jpg
@@ -19,34 +15,34 @@ Brattle,Harvard Book Store Presents Susan Lieu,04-02,6:00 PM,https://brattlefilm
 Brattle,Straight Time,04-02,"8:00 PM
 ",https://brattlefilm.org/movies/straight-time/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2024/03/22174208/jFQ5RFiv5xTasWkQzZ7SWWudTCe.jpg
 Brattle,Blood Simple,04-03,6:30 PM,https://brattlefilm.org/movies/blood-simple/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2024/03/22174313/n8D1gVXUgmW4kkDzUzzoezAmUUa-scaled.jpg
-Brattle,Blade Runner: Final Cut*,04-03,8:45 PM,https://brattlefilm.org/movies/blade-runner/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2022/08/01162946/blade-runner-final-cut-poster.jpg
+Brattle,Blade Runner: Final Cut,04-03,8:45 PM,https://brattlefilm.org/movies/blade-runner/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2022/08/01162946/blade-runner-final-cut-poster.jpg
 Brattle,Calvary,04-04,6:00 PM,https://brattlefilm.org/movies/calvary/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2024/03/22174405/jzgiam18I0gR20LB8BAE5u4dIdm-scaled.jpg
 Brattle,Febrero,04-05,6:30 PM,https://brattlefilm.org/movies/febrero/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2024/03/15105201/mI8zrni4L6sc4qYiWMM5GNtBqHN.jpg
 Brattle,Nowhere,04-05,9:00 PM,https://brattlefilm.org/movies/nowhere/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2024/03/15112658/c1TZKfzvATep5x5DthqWjjWtU2l.jpg
-Brattle,(Trans)portation,04-06,1:00 PM,https://brattlefilm.org/special_events/transportation/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/03/22130910/wicked-queer-filmbot-poster-1-copy.jpg
+Brattle,(Trans)portation,04-06,1:00 PM,https://brattlefilm.org/special_events/transportation/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2024/03/25165912/wicked-queer-filmbot-poster-2024-copy.jpg
 Brattle,Avant-Drag!,04-06,4:00 PM,https://brattlefilm.org/movies/avant-drag/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2024/03/15113225/tWn7r8rCXntw3wtWjRCzTnafQh2.jpg
 Brattle,The Queen of My Dreams,04-06,6:30 PM,https://brattlefilm.org/movies/the-queen-of-my-dreams/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2024/03/15113500/AprPc4k1MsRpAiHPKUxlEt9EWi9-scaled.jpg
 Brattle,T Blockers,04-06,9:00 PM,https://brattlefilm.org/movies/t-blockers/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2024/03/15114656/7rEhT8RTG33vV11zOle0FTmuoHJ-scaled.jpg
-Brattle,Drag the World,04-07,1:00 PM,https://brattlefilm.org/special_events/drag-the-world/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/03/22130910/wicked-queer-filmbot-poster-1-copy.jpg
-Brattle,Encounters of the 3rd Degree,04-07,4:00 PM,https://brattlefilm.org/special_events/encounters-of-the-3rd-degree/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/03/22130910/wicked-queer-filmbot-poster-1-copy.jpg
+Brattle,Drag the World,04-07,1:00 PM,https://brattlefilm.org/special_events/drag-the-world/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2024/03/25165912/wicked-queer-filmbot-poster-2024-copy.jpg
+Brattle,Encounters of the 3rd Degree,04-07,4:00 PM,https://brattlefilm.org/special_events/encounters-of-the-3rd-degree/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2024/03/25165912/wicked-queer-filmbot-poster-2024-copy.jpg
 Brattle,Lesvia,04-07,6:30 PM,https://brattlefilm.org/movies/lesvia/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2024/03/15115102/xQYNesYFmS0D0KtsaO4bQuucLNF.jpg
 Brattle,Saint Drogo,04-07,9:00 PM,https://brattlefilm.org/movies/saint-drogo/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2024/03/15115515/lJqebAq9ajd0MfJu8k82lgggLvc-scaled.jpg
 Brattle,I Will Be There Every Single Night,04-08,6:30 PM,https://brattlefilm.org/movies/i-will-be-there-every-single-night/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2024/03/15120038/jPwjYuKcdMQpCOt9Xi6Z60CsQrZ.jpg
 Brattle,Elda and the Monsters,04-08,8:30 PM,https://brattlefilm.org/movies/elda-and-the-monsters/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2024/03/15120405/hrCOc5RT2U922xtz24XTcCi2Vsy.jpg
-Brattle,World’s Shorts,04-09,6:00 PM,https://brattlefilm.org/special_events/worlds-shorts/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/03/22130910/wicked-queer-filmbot-poster-1-copy.jpg
+Brattle,World’s Shorts,04-09,6:00 PM,https://brattlefilm.org/special_events/worlds-shorts/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2024/03/25165912/wicked-queer-filmbot-poster-2024-copy.jpg
 Brattle,Tongues Untied,04-09,8:30 PM,https://brattlefilm.org/movies/tongues-untied/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2024/03/15122908/wbrcRd695aB8D6pkWh0hSurKRbO.jpg
 Brattle,Harvard Book Store Presents Dr. Sharon Malone,04-10,6:00 PM,https://brattlefilm.org/special_events/harvard-book-store-presents-dr-sharon-malone/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2024/03/14111341/hbs-malone-book.jpg
 Brattle,Fire,04-10,8:00 PM,https://brattlefilm.org/movies/fire/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2024/03/15123559/jDUCcZ7bBkqhbZ8R0vml3YUd4GG.jpg
-Brattle,Menergy,04-11,6:30 PM,https://brattlefilm.org/special_events/menergy/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/03/22130910/wicked-queer-filmbot-poster-1-copy.jpg
+Brattle,Menergy,04-11,6:30 PM,https://brattlefilm.org/special_events/menergy/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2024/03/25170127/girls-dont-cry.jpg
 Brattle,Chuck Chuck Baby,04-11,8:30 PM,https://brattlefilm.org/movies/chuck-chuck-baby/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2024/03/15124720/xzh5cKKJPcJIL32TQb4pjjQTZKl.jpg
 Brattle,Girls Don’t Cry,04-12,6:30 PM,https://brattlefilm.org/movies/girls-dont-cry/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2024/03/15125020/740EQsYt7zlToNvRaw0Cp4gQnTN-scaled.jpg
 Brattle,The Judgment,04-12,9:00 PM,https://brattlefilm.org/movies/the-judgment/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2024/03/15130503/9KryoXGmKP5PdDqst06VBFzJWa0.jpg
-Brattle,Our Future Filmmakers,04-13,1:00 PM,https://brattlefilm.org/special_events/our-future-filmmakers/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/03/22130910/wicked-queer-filmbot-poster-1-copy.jpg
+Brattle,Our Future Filmmakers,04-13,1:00 PM,https://brattlefilm.org/special_events/our-future-filmmakers/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2024/03/25165912/wicked-queer-filmbot-poster-2024-copy.jpg
 Brattle,When Night Is Falling,04-13,4:00 PM,https://brattlefilm.org/movies/when-night-is-falling/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2024/03/15130751/f9edMkT6bLXVvZICn47ARnQ1Iu5.jpg
 Brattle,Turtles,04-13,6:30 PM,https://brattlefilm.org/movies/turtles/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2024/03/15131007/9ZEdse2MLWZ6LaNPRyQEBh6vqhl.jpg
 Brattle,Scarecrow in a Garden of Cucumbers,04-13,9:00 PM,https://brattlefilm.org/movies/scarecrow-in-a-garden-of-cucumbers/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2024/03/15131243/55Nd0gNBrHnLa7ggFc9I5wyEOn1.jpg
-Brattle,MENA Shorts,04-14,1:00 PM,https://brattlefilm.org/special_events/mena-shorts/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/03/22130910/wicked-queer-filmbot-poster-1-copy.jpg
-Brattle,G.T.F.O.,04-14,4:00 PM,https://brattlefilm.org/special_events/g-t-f-o/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/03/22130910/wicked-queer-filmbot-poster-1-copy.jpg
+Brattle,MENA Shorts,04-14,1:00 PM,https://brattlefilm.org/special_events/mena-shorts/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2024/03/25165912/wicked-queer-filmbot-poster-2024-copy.jpg
+Brattle,G.T.F.O.,04-14,4:00 PM,https://brattlefilm.org/special_events/g-t-f-o/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2024/03/25165912/wicked-queer-filmbot-poster-2024-copy.jpg
 Brattle,Transsexuals from Space,04-14,6:30 PM,https://brattlefilm.org/movies/transsexuals-from-space/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2024/03/15131811/oTw0CqaMQl7BSjRCEbTcGBYXIqR.jpg
 Brattle,The Devil Queen (A Rainha Diaba),04-14,9:00 PM,https://brattlefilm.org/movies/the-devil-queen-a-rainha-diaba/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2024/03/15132456/4IYNTH9hj2iIvDds6dPbWqzeDTC.jpg
 Brattle,The Dark Crystal,04-15,12:00 PM,https://brattlefilm.org/movies/the-dark-crystal/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2021/08/16151836/sMwbyGnMu1RzARnPkEKkeWXXSVN-scaled.jpg
