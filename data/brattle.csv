@@ -1,7 +1,4 @@
 theater,title,date,time,link,poster
-Brattle,Halloween,05-01,5:00 PM,https://brattlefilm.org/movies/halloween/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2024/02/26160428/wijlZ3HaYMvlDTPqJoTCWKFkCPU.jpg
-Brattle,Halloween II,05-01,"7:00 PM
-",https://brattlefilm.org/movies/halloween-ii/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2024/02/26160605/gL3dPbbZInWn4U9jd87uoFGOdot.jpg
 Brattle,Halloween III: Season of the Witch,05-01,"9:00 PM
 ",https://brattlefilm.org/movies/halloween-iii-season-of-the-witch/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2024/02/26160711/WABfdeaThFYXCySGIOvRNv2sSW.jpg
 Brattle,I Saw the TV Glow,05-02,7:00 PM,https://brattlefilm.org/movies/i-saw-the-tv-glow/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2024/04/16153303/hS4GYkYpN1rfl4GIxyc02sCyfAj-scaled.jpg
@@ -13,7 +10,8 @@ Brattle,Green Border,05-04,2:30 PM,https://brattlefilm.org/movies/green-border/,
 Brattle,Gasoline Rainbow,05-04,5:15 PM,https://brattlefilm.org/movies/gasoline-rainbow/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2024/04/18132011/gasoline-rainbow-movie-poster.jpg
 Brattle,Janet Planet,05-04,7:30 PM,https://brattlefilm.org/movies/janet-planet/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2024/04/18132013/janet-planet-poster-1.jpg
 Brattle,The Reciprocity Project – Season 2,05-05,12:00 PM,https://brattlefilm.org/special_events/the-reciprocity-project/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2022/04/16154828/cal-poster-400x600-1.jpg
-Brattle,El Signo Vacío,05-05,3:30 PM,https://brattlefilm.org/movies/el-signo-vacio/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2024/04/16154219/kfcLDDaLJKNkrqSLITbFscFdZMJ.jpg
+Brattle,El Signo Vacío,05-05,"3:30 PM
+",https://brattlefilm.org/movies/el-signo-vacio/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2024/04/16154219/kfcLDDaLJKNkrqSLITbFscFdZMJ.jpg
 Brattle,No One Asked You,05-05,6:15 PM,https://brattlefilm.org/movies/no-one-asked-you/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2024/04/16154304/wNmmQUwlXiIs2dMArkmuAX1GQ1f.jpg
 Brattle,Tuesday,05-05,8:45 PM,https://brattlefilm.org/movies/tuesday/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2024/04/16154324/zrd6blans3SqghHSxPAl7tqnaOf-scaled.jpg
 Brattle,Power,05-06,5:00 PM,https://brattlefilm.org/movies/power/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2024/04/18132429/power-poster-1.jpg
