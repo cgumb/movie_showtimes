@@ -1,6 +1,4 @@
 theater,title,date,time,link,poster
-Brattle,Pulp Fiction,05-09,"8:00 PM
-",https://brattlefilm.org/movies/pulp-fiction/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2024/04/24165830/d5iIlFn5s0ImszYzBPb8JPIfbXD.jpg
 Brattle,Film is Dead. Long Live Film!,05-10,7:00 PM,https://brattlefilm.org/movies/film-is-dead-long-live-film/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2024/04/26162559/FIDLLF_72DPI.jpg
 Brattle,Zombie,05-10,"10:00 PM
 ",https://brattlefilm.org/movies/zombie/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2024/04/24170550/giJlnw8ItTJb7IL053Z47B6S1xf.jpg
@@ -19,6 +17,8 @@ Brattle,Secret Hong Kong Screening,05-12,"8:30 PM
 Brattle,Chinatown,05-13,"7:00 PM
 ",https://brattlefilm.org/movies/chinatown/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2024/05/09094253/mQJz8J4naOA7RmCtypTPjgXZIMY.jpg
 Brattle,Harvard Book Store Presents Colm Tóibín,05-14,6:00 PM,https://brattlefilm.org/special_events/harvard-book-store-presents-colm-toibin/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2024/04/30132953/hbs-toibin-boook.jpg
+Brattle,Pulp Fiction,05-14,"8:00 PM
+",https://brattlefilm.org/movies/pulp-fiction/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2024/04/24165830/d5iIlFn5s0ImszYzBPb8JPIfbXD.jpg
 Brattle,Harvard Book Store Presents Miranda July,05-15,6:00 PM,https://brattlefilm.org/special_events/harvard-book-store-presents-miranda-july/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2024/03/14110610/hbs-july-book.jpg
 Brattle,Mars Express,05-15,8:00 PM,https://brattlefilm.org/movies/mars-express/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2024/05/09102323/mpGbDJUsPdnoy4Xukz7S4tZRciN-scaled.jpg
 Brattle,Harvard Book Store Presents Claire Messud,05-17,6:00 PM,https://brattlefilm.org/special_events/harvard-book-store-presents-claire-messud/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2024/04/25123223/hbs-messud-book.jpg
