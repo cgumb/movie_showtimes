@@ -1,9 +1,6 @@
 theater,title,date,time,link,poster
-Brattle,Prince: Sign O’ the Times,06-06,"4:30 PM
-",https://brattlefilm.org/movies/prince-sign-o-the-times/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/05/29155506/o6Uiv5XXJZd4RJdkXfQt8JoAEnZ.jpg
 Brattle,Prince: Sign O’ the Times,06-06,"9:00 PM
 ",https://brattlefilm.org/movies/prince-sign-o-the-times/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/05/29155506/o6Uiv5XXJZd4RJdkXfQt8JoAEnZ.jpg
-Brattle,Purple Rain,06-06,6:30 PM,https://brattlefilm.org/movies/purple-rain/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2021/10/29135432/9Sqomx8pfr6aAkyKZf1d5h7ghID.jpg
 Brattle,Nostalghia,06-07,4:00 PM,https://brattlefilm.org/movies/nostalghia/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2024/04/30151722/nostalghia-poster-1-scaled.jpg
 Brattle,Nostalghia,06-08,7:00 PM,https://brattlefilm.org/movies/nostalghia/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2024/04/30151722/nostalghia-poster-1-scaled.jpg
 Brattle,Nostalghia,06-09,4:00 PM,https://brattlefilm.org/movies/nostalghia/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2024/04/30151722/nostalghia-poster-1-scaled.jpg
@@ -73,3 +70,50 @@ Brattle,Tótem,06-26,4:45 PM,https://brattlefilm.org/movies/totem/,https://s3.am
 Brattle,Tótem,06-26,7:00 PM,https://brattlefilm.org/movies/totem/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/10/06105457/c7FGI4wXaC2N15snz3W84yAgGf3.jpg
 Brattle,La Chimera,06-27,5:15 PM,https://brattlefilm.org/movies/la-chimera/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2024/05/02132504/lDaUha09CumsoSAt9MIRbS9WBNH-scaled.jpg
 Brattle,The Beast,06-27,8:00 PM,https://brattlefilm.org/movies/the-beast/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2024/05/02132557/v4GQdDqEbYZE1F9Q7NPAEftrepD-scaled.jpg
+Brattle,Flipside,06-28,"6:00 PM
+",https://brattlefilm.org/movies/flipside/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2024/06/06141043/ztYzV0hyrzqd4ZZrwGewS6uS1uP-scaled.jpg
+Brattle,Flipside,06-29,"12:00 PM
+",https://brattlefilm.org/movies/flipside/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2024/06/06141043/ztYzV0hyrzqd4ZZrwGewS6uS1uP-scaled.jpg
+Brattle,Flipside,06-30,"4:30 PM
+",https://brattlefilm.org/movies/flipside/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2024/06/06141043/ztYzV0hyrzqd4ZZrwGewS6uS1uP-scaled.jpg
+Brattle,Flipside,07-01,"6:30 PM
+",https://brattlefilm.org/movies/flipside/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2024/06/06141043/ztYzV0hyrzqd4ZZrwGewS6uS1uP-scaled.jpg
+Brattle,Flipside,06-28,"2:00 PM
+",https://brattlefilm.org/movies/flipside/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2024/06/06141043/ztYzV0hyrzqd4ZZrwGewS6uS1uP-scaled.jpg
+Brattle,Flipside,06-29,"6:00 PM
+",https://brattlefilm.org/movies/flipside/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2024/06/06141043/ztYzV0hyrzqd4ZZrwGewS6uS1uP-scaled.jpg
+Brattle,Flipside,06-30,"6:00 PM
+",https://brattlefilm.org/movies/flipside/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2024/06/06141043/ztYzV0hyrzqd4ZZrwGewS6uS1uP-scaled.jpg
+Brattle,Humanist Vampire Seeking Consenting Suicidal Person,06-28,"8:00 PM
+",https://brattlefilm.org/movies/humanist-vampire-seeking-consenting-suicidal-person/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2024/03/08120433/humanis_poster-scaled.jpeg
+Brattle,Humanist Vampire Seeking Consenting Suicidal Person,06-29,"10:00 PM
+",https://brattlefilm.org/movies/humanist-vampire-seeking-consenting-suicidal-person/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2024/03/08120433/humanis_poster-scaled.jpeg
+Brattle,Humanist Vampire Seeking Consenting Suicidal Person,06-30,"2:30 PM
+",https://brattlefilm.org/movies/humanist-vampire-seeking-consenting-suicidal-person/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2024/03/08120433/humanis_poster-scaled.jpeg
+Brattle,Humanist Vampire Seeking Consenting Suicidal Person,07-01,"9:00 PM
+",https://brattlefilm.org/movies/humanist-vampire-seeking-consenting-suicidal-person/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2024/03/08120433/humanis_poster-scaled.jpeg
+Brattle,Humanist Vampire Seeking Consenting Suicidal Person,06-28,"12:00 PM
+",https://brattlefilm.org/movies/humanist-vampire-seeking-consenting-suicidal-person/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2024/03/08120433/humanis_poster-scaled.jpeg
+Brattle,Humanist Vampire Seeking Consenting Suicidal Person,06-29,"4:00 PM
+",https://brattlefilm.org/movies/humanist-vampire-seeking-consenting-suicidal-person/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2024/03/08120433/humanis_poster-scaled.jpeg
+Brattle,Humanist Vampire Seeking Consenting Suicidal Person,06-30,"8:15 PM
+",https://brattlefilm.org/movies/humanist-vampire-seeking-consenting-suicidal-person/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2024/03/08120433/humanis_poster-scaled.jpeg
+Brattle,Humanist Vampire Seeking Consenting Suicidal Person,07-01,"4:00 PM
+",https://brattlefilm.org/movies/humanist-vampire-seeking-consenting-suicidal-person/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2024/03/08120433/humanis_poster-scaled.jpeg
+Brattle,Humanist Vampire Seeking Consenting Suicidal Person,06-28,"8:15 PM
+",https://brattlefilm.org/movies/humanist-vampire-seeking-consenting-suicidal-person/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2024/03/08120433/humanis_poster-scaled.jpeg
+Brattle,Pearl,07-02,5:00 PM,https://brattlefilm.org/movies/pearl/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2022/12/21105557/ulBLIBqvdnf4H6JBt0OpMCU1ECn-scaled.jpg
+Brattle,Pearl,07-02,9:30 PM,https://brattlefilm.org/movies/pearl/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2022/12/21105557/ulBLIBqvdnf4H6JBt0OpMCU1ECn-scaled.jpg
+Brattle,X,07-02,7:15 PM,https://brattlefilm.org/movies/x/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2022/12/21105247/woTQx9Q4b8aO13jR9dsj8C9JESy-scaled.jpg
+Brattle,Jaws,07-03,"3:00 PM
+",https://brattlefilm.org/movies/jaws/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2021/05/10145225/l1yltvzILaZcx2jYvc5sEMkM7Eh.jpg
+Brattle,Jaws,07-04,"6:00 PM
+",https://brattlefilm.org/movies/jaws/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2021/05/10145225/l1yltvzILaZcx2jYvc5sEMkM7Eh.jpg
+Brattle,Jaws,07-03,"9:00 PM
+",https://brattlefilm.org/movies/jaws/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2021/05/10145225/l1yltvzILaZcx2jYvc5sEMkM7Eh.jpg
+Brattle,Jaws,07-04,"1:00 PM
+",https://brattlefilm.org/movies/jaws/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2021/05/10145225/l1yltvzILaZcx2jYvc5sEMkM7Eh.jpg
+Brattle,Jaws,07-03,"4:00 PM
+",https://brattlefilm.org/movies/jaws/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2021/05/10145225/l1yltvzILaZcx2jYvc5sEMkM7Eh.jpg
+Brattle,Jaws,07-04,"7:00 PM
+",https://brattlefilm.org/movies/jaws/,https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2021/05/10145225/l1yltvzILaZcx2jYvc5sEMkM7Eh.jpg
